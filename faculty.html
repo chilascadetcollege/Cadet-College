@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ur" dir="ltr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Cadet College Diamer, Chilas - Quality Education and Personality Development">
+    <title>Cadet College Diamer | Faculty</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700;800&family=Jameel+Noori+Nastaleeq:wght@400&display=swap"
+        rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .page-header {
+            padding-top: 150px;
+            padding-bottom: 50px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Custom Cursor -->
+    <div class="cursor-dot" data-cursor-dot></div>
+    <div class="cursor-outline" data-cursor-outline></div>
+
+    <!-- Background Animation Elements -->
+    <div class="bg-shape shape-1"></div>
+    <div class="bg-shape shape-2"></div>
+    <div class="bg-shape shape-3"></div>
+
+    <!-- Navigation -->
+    <header class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="logo">
+                <img class="logo-img" src="monogram.jpeg" alt="Monogram" style="height: 50px; width: auto; object-fit: contain; filter: drop-shadow(0 0 8px rgba(245, 166, 35, 0.5));">
+                <div class="logo-text">
+                    <h1>Cadet College</h1>
+                    <p>Diamer, Chilas</p>
+                </div>
+            </a>
+
+            <button class="mobile-toggle" id="mobile-toggle">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+
+            <nav class="nav-links" id="nav-links">
+                <a href="index.html" data-i18n="nav_home">Home</a>
+                <a href="about.html" data-i18n="nav_about">About</a>
+                <a href="faculty.html" class="active" data-i18n="nav_faculty">Faculty</a>
+                <a href="contact.html" data-i18n="nav_contact">Contact Us</a>
+                <button id="lang-toggle" class="btn-primary glow-btn"
+                    style="padding: 0.5rem 1rem; margin-inline-start: 1rem;">
+                    <i class="fa-solid fa-language"></i> <span id="lang-text">اردو</span>
+                </button>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Faculty Header -->
+    <section class="page-header container">
+        <div class="section-header text-center reveal">
+            <span class="subtitle" data-i18n="faculty_subtitle">Meet The Team</span>
+            <h2 class="title" data-i18n="faculty_title">Our Esteemed <span class="accent-text">Faculty</span></h2>
+            <p class="section-desc" data-i18n="faculty_desc">Dedicated professionals shaping the future leaders.</p>
+        </div>
+    </section>
+
+    <!-- Faculty Section -->
+    <section id="faculty" class="faculty" style="padding-top: 0; padding-bottom: 150px;">
+        <div class="container">
+            <div class="faculty-grid">
+                <!-- Faculty Cards Generated via JS to keep HTML clean -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <a href="index.html" class="logo">
+                        <img class="logo-img" src="monogram.jpeg" alt="Monogram" style="height: 50px; width: auto; object-fit: contain; filter: drop-shadow(0 0 8px rgba(245, 166, 35, 0.5));">
+                        <div class="logo-text">
+                            <h2>Cadet College</h2>
+                            <p>Diamer, Chilas</p>
+                        </div>
+                    </a>
+                    <p class="footer-desc" data-i18n="hero_desc">Molding the future leaders. We provide quality
+                        education and personality development through cognitive and physical grooming over 125 acres of
+                        breathtaking campus.</p>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <p>&copy; 2026 Cadet College Diamer. All rights reserved. Designed with ❤️ by Antigravity.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="script.js"></script>
+</body>
+
+</html>

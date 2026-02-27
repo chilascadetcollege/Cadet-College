@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="ur" dir="ltr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="About Cadet College Diamer, Chilas">
+    <title>Cadet College Diamer | About Us</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700;800&family=Jameel+Noori+Nastaleeq:wght@400&display=swap"
+        rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .page-header {
+            padding-top: 150px;
+            padding-bottom: 50px;
+            text-align: center;
+        }
+
+        .gallery-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin-top: 3rem;
+        }
+
+        .gallery-item {
+            border-radius: 16px;
+            overflow: hidden;
+            position: relative;
+            height: 250px;
+            border: 1px solid var(--glass-border);
+        }
+
+        .gallery-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.5s ease;
+        }
+
+        .gallery-item:hover img {
+            transform: scale(1.1);
+        }
+
+        .gallery-overlay {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background: linear-gradient(transparent, rgba(6, 11, 25, 0.9));
+            padding: 20px;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .gallery-item:hover .gallery-overlay {
+            opacity: 1;
+        }
+
+        .video-container {
+            width: 100%;
+            border-radius: 20px;
+            overflow: hidden;
+            border: 1px solid var(--glass-border);
+            box-shadow: var(--glass-shadow);
+            margin-top: 3rem;
+            aspect-ratio: 16/9;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Custom Cursor -->
+    <div class="cursor-dot" data-cursor-dot></div>
+    <div class="cursor-outline" data-cursor-outline></div>
+
+    <!-- Background Animation Elements -->
+    <div class="bg-shape shape-1"></div>
+    <div class="bg-shape shape-2"></div>
+    <div class="bg-shape shape-3"></div>
+
+    <!-- Navigation -->
+    <header class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="logo">
+                <img class="logo-img" src="monogram.jpeg" alt="Monogram" style="height: 50px; width: auto; object-fit: contain; filter: drop-shadow(0 0 8px rgba(245, 166, 35, 0.5));">
+                <div class="logo-text">
+                    <h1>Cadet College</h1>
+                    <p>Diamer, Chilas</p>
+                </div>
+            </a>
+
+            <button class="mobile-toggle" id="mobile-toggle">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+
+            <nav class="nav-links" id="nav-links">
+                <a href="index.html" data-i18n="nav_home">Home</a>
+                <a href="about.html" class="active" data-i18n="nav_about">About</a>
+                <a href="faculty.html" data-i18n="nav_faculty">Faculty</a>
+                <a href="contact.html" data-i18n="nav_contact">Contact Us</a>
+                <button id="lang-toggle" class="btn-primary glow-btn"
+                    style="padding: 0.5rem 1rem; margin-inline-start: 1rem;">
+                    <i class="fa-solid fa-language"></i> <span id="lang-text">اردو</span>
+                </button>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Header Section -->
+    <section class="page-header container">
+        <div class="section-header text-center reveal">
+            <span class="subtitle" data-i18n="about_subtitle">Our Campus</span>
+            <h2 class="title" data-i18n="about_title">A Legacy of <span class="accent-text">Excellence</span></h2>
+        </div>
+    </section>
+
+    <!-- About Content -->
+    <section class="section-padding" style="padding-top: 0;">
+        <div class="container">
+            <div class="about-grid">
+                <div class="about-text glass-panel reveal" style="padding: 4rem;">
+                    <p data-i18n="about_p1">The campus is spread over an area of <strong>125 acres</strong>. This
+                        expansive area includes a state-of-the-art Administrative Block cum Academic block, ensuring the
+                        best environment for learning.</p>
+                    <p data-i18n="about_p2">Overall grooming of personal of cadets is the hallmark of Cadet College;
+                        therefore, along with cognitive development, physical development is also given due importance
+                        in the new campus.</p>
+
+                    <ul class="feature-list" style="margin-top: 3rem;">
+                        <li><i class="fa-solid fa-check-circle"></i> <span data-i18n="about_f1">Triple-storied
+                                Auditorium & Mess</span></li>
+                        <li><i class="fa-solid fa-check-circle"></i> <span data-i18n="about_f2">Three Dedicated
+                                Hostels</span></li>
+                        <li><i class="fa-solid fa-check-circle"></i> <span data-i18n="about_f3">In-house Hospital
+                                Facility</span></li>
+                        <li><i class="fa-solid fa-check-circle"></i> <span data-i18n="about_f4">Wide Playgrounds
+                                (Hockey, Cricket, etc.)</span></li>
+                    </ul>
+                </div>
+
+                <div class="about-stats reveal">
+                    <div class="stat-card glass-card hover-tilt">
+                        <div class="stat-icon"><i class="fa-solid fa-map-location-dot"></i></div>
+                        <h3 class="counter" data-target="125">0</h3>
+                        <p data-i18n="stat_acres">Acres of Campus</p>
+                    </div>
+                    <div class="stat-card glass-card hover-tilt">
+                        <div class="stat-icon"><i class="fa-solid fa-building"></i></div>
+                        <h3 class="counter" data-target="3">0</h3>
+                        <p data-i18n="stat_hostels">Hostel Blocks</p>
+                    </div>
+                    <div class="stat-card glass-card hover-tilt">
+                        <div class="stat-icon"><i class="fa-solid fa-futbol"></i></div>
+                        <h3 class="counter" data-target="4">0</h3>
+                        <p data-i18n="stat_sports">Sports Grounds</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Virtual Visit Section -->
+    <section class="section-padding" style="background: rgba(11, 19, 43, 0.5);">
+        <div class="container container-sm text-center">
+            <div class="section-header reveal">
+                <span class="subtitle" data-i18n="virtual_visit_subtitle">Virtual Visit</span>
+                <h2 class="title" data-i18n="virtual_visit_title">Explore From <span class="accent-text">Anywhere</span>
+                </h2>
+            </div>
+            <div class="video-container reveal">
+                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/n3E8j20S8V4"
+                    title="Cadet College Diamer" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+            </div>
+        </div>
+    </section>
+
+    <!-- Campus Gallery (Newly Added) -->
+    <section class="section-padding">
+        <div class="container">
+            <div class="section-header text-center reveal">
+                <span class="subtitle" data-i18n="gallery_subtitle">Our Campus</span>
+                <h2 class="title" data-i18n="gallery_title">Photo <span class="accent-text">Gallery</span></h2>
+            </div>
+
+            <div class="gallery-grid reveal">
+                <div class="gallery-item">
+                    <img src="https://ccchilas.edu.pk/wp-content/uploads/2025/01/ccca1-819x1024.jpg" alt="Academics">
+                    <div class="gallery-overlay">
+                        <h3 data-i18n="gal_academics">Academics Block</h3>
+                    </div>
+                </div>
+                <div class="gallery-item">
+                    <img src="https://ccchilas.edu.pk/wp-content/uploads/2025/01/2dss.jpg" alt="Dining Hall">
+                    <div class="gallery-overlay">
+                        <h3 data-i18n="gal_dining">Mess / Dining Hall</h3>
+                    </div>
+                </div>
+                <div class="gallery-item">
+                    <img src="https://ccchilas.edu.pk/wp-content/uploads/2025/01/5ss.jpg" alt="Events">
+                    <div class="gallery-overlay">
+                        <h3 data-i18n="gal_events">Auditorium</h3>
+                    </div>
+                </div>
+                <div class="gallery-item">
+                    <img src="https://ccchilas.edu.pk/wp-content/uploads/2025/01/1s.jpg" alt="Sports">
+                    <div class="gallery-overlay">
+                        <h3 data-i18n="gal_sports">Playgrounds</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <a href="index.html" class="logo">
+                        <img class="logo-img" src="monogram.jpeg" alt="Monogram" style="height: 50px; width: auto; object-fit: contain; filter: drop-shadow(0 0 8px rgba(245, 166, 35, 0.5));">
+                        <div class="logo-text">
+                            <h2>Cadet College</h2>
+                            <p>Diamer, Chilas</p>
+                        </div>
+                    </a>
+                    <p class="footer-desc" data-i18n="hero_desc">Molding the future leaders. We provide quality
+                        education and personality development through cognitive and physical grooming over 125 acres of
+                        breathtaking campus.</p>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <p>&copy; 2026 Cadet College Diamer. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="script.js"></script>
+</body>
+
+</html>

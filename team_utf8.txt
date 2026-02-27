@@ -1,0 +1,1030 @@
+﻿
+> original_html_utf8.txt:398:					<h2 class="elementor-heading-title elementor-size-default">Meet The Team</h2>				
+</div>
+  original_html_utf8.txt:399:				</div>
+  original_html_utf8.txt:400:					</div>
+  original_html_utf8.txt:401:		</div>
+  original_html_utf8.txt:402:					</div>
+  original_html_utf8.txt:403:		</section>
+  original_html_utf8.txt:404:				<section class="elementor-section elementor-top-section elementor-element 
+elementor-element-8ae4783 elementor-section-boxed elementor-section-height-default elementor-section-height-default" 
+data-id="8ae4783" data-element_type="section">
+  original_html_utf8.txt:405:						<div class="elementor-container elementor-column-gap-default">
+  original_html_utf8.txt:406:					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element 
+elementor-element-6cecb58" data-id="6cecb58" data-element_type="column">
+  original_html_utf8.txt:407:			<div class="elementor-widget-wrap">
+  original_html_utf8.txt:408:							</div>
+  original_html_utf8.txt:409:		</div>
+  original_html_utf8.txt:410:				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element 
+elementor-element-9ec6b28" data-id="9ec6b28" data-element_type="column">
+  original_html_utf8.txt:411:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:412:						<div class="elementor-element elementor-element-b42cab3 elementor-position-top 
+elementor-widget elementor-widget-image-box" data-id="b42cab3" data-element_type="widget" 
+data-widget_type="image-box.default">
+  original_html_utf8.txt:413:				<div class="elementor-widget-container">
+  original_html_utf8.txt:414:					<div class="elementor-image-box-wrapper"><figure 
+class="elementor-image-box-img"><img loading="lazy" decoding="async" width="397" height="366" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-10.27.30-AM.jpeg" 
+class="attachment-large size-large wp-image-3983" alt="" 
+srcset="https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-10.27.30-AM.jpeg 397w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-10.27.30-AM-300x277.jpeg 300w" 
+sizes="(max-width: 397px) 100vw, 397px" /></figure><div class="elementor-image-box-content"><h3 
+class="elementor-image-box-title">Muhammad Khan</h3><p class="elementor-image-box-description"><b>Vice Principal</b>
+  original_html_utf8.txt:415:MS in Micro Biology Abasyn  University Peshawar, B.ed From Sarhad 
+University</p></div></div>				</div>
+  original_html_utf8.txt:416:				</div>
+  original_html_utf8.txt:417:					</div>
+  original_html_utf8.txt:418:		</div>
+  original_html_utf8.txt:419:					</div>
+  original_html_utf8.txt:420:		</section>
+  original_html_utf8.txt:421:				<section class="elementor-section elementor-top-section elementor-element 
+elementor-element-b0080a7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" 
+data-id="b0080a7" data-element_type="section">
+  original_html_utf8.txt:422:						<div class="elementor-container elementor-column-gap-default">
+  original_html_utf8.txt:423:					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element 
+elementor-element-3d5b448" data-id="3d5b448" data-element_type="column">
+  original_html_utf8.txt:424:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:425:						<div class="elementor-element elementor-element-cc3bd10 elementor-position-top 
+elementor-widget elementor-widget-image-box" data-id="cc3bd10" data-element_type="widget" 
+data-widget_type="image-box.default">
+  original_html_utf8.txt:426:				<div class="elementor-widget-container">
+  original_html_utf8.txt:427:					<div class="elementor-image-box-wrapper"><figure 
+class="elementor-image-box-img"><img loading="lazy" decoding="async" width="848" height="1024" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.53.13-PM-848x1024.jpeg" 
+class="attachment-large size-large wp-image-4018" alt="" 
+srcset="https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.53.13-PM-848x1024.jpeg 848w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.53.13-PM-249x300.jpeg 249w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.53.13-PM-768x927.jpeg 768w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.53.13-PM.jpeg 928w" 
+sizes="(max-width: 848px) 100vw, 848px" /></figure><div class="elementor-image-box-content"><h3 
+class="elementor-image-box-title">Mr. Karam Shah</h3><p class="elementor-image-box-description"><b>Assistant Professor 
+in Mathematics.</b>
+  original_html_utf8.txt:428:M.sc in Mathematics from Islamia college Peshawar.<br>B.Ed From AIOU 
+Islamabad</p></div></div>				</div>
+  original_html_utf8.txt:429:				</div>
+  original_html_utf8.txt:430:					</div>
+  original_html_utf8.txt:431:		</div>
+  original_html_utf8.txt:432:				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element 
+elementor-element-bcac65d" data-id="bcac65d" data-element_type="column">
+  original_html_utf8.txt:433:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:434:						<div class="elementor-element elementor-element-367873e elementor-position-top 
+elementor-widget elementor-widget-image-box" data-id="367873e" data-element_type="widget" 
+data-widget_type="image-box.default">
+  original_html_utf8.txt:435:				<div class="elementor-widget-container">
+  original_html_utf8.txt:436:					<div class="elementor-image-box-wrapper"><figure 
+class="elementor-image-box-img"><img loading="lazy" decoding="async" width="383" height="437" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747574098743-removebg-preview.png" class="attachment-large 
+size-large wp-image-3875" alt="" 
+srcset="https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747574098743-removebg-preview.png 383w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747574098743-removebg-preview-263x300.png 263w" 
+sizes="(max-width: 383px) 100vw, 383px" /></figure><div class="elementor-image-box-content"><h3 
+class="elementor-image-box-title">Mr. M. Imran Khan</h3><p class="elementor-image-box-description"><b>Lecturer In 
+chemistry.</b>
+  original_html_utf8.txt:437:M.Phil  From Peshawar University <br>
+  original_html_utf8.txt:438:B.Ed from AIOU Islamabad</p></div></div>				</div>
+  original_html_utf8.txt:439:				</div>
+  original_html_utf8.txt:440:					</div>
+  original_html_utf8.txt:441:		</div>
+  original_html_utf8.txt:442:				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element 
+elementor-element-6dab456" data-id="6dab456" data-element_type="column">
+  original_html_utf8.txt:443:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:444:						<div class="elementor-element elementor-element-1d00770 elementor-position-top 
+elementor-widget elementor-widget-image-box" data-id="1d00770" data-element_type="widget" 
+data-widget_type="image-box.default">
+  original_html_utf8.txt:445:				<div class="elementor-widget-container">
+  original_html_utf8.txt:446:					<div class="elementor-image-box-wrapper"><figure 
+class="elementor-image-box-img"><img loading="lazy" decoding="async" width="461" height="542" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-18-at-9.06.32-PM.jpeg" 
+class="attachment-medium_large size-medium_large wp-image-3889" alt="" 
+srcset="https://ccchilas.edu.pk/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-18-at-9.06.32-PM.jpeg 461w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-18-at-9.06.32-PM-255x300.jpeg 255w" 
+sizes="(max-width: 461px) 100vw, 461px" /></figure><div class="elementor-image-box-content"><h3 
+class="elementor-image-box-title">Mr. Akhtar Rehman</h3><p class="elementor-image-box-description"><b>Lecturer in Pak 
+Studies.
+  original_html_utf8.txt:447:</b>
+  original_html_utf8.txt:448:
+  original_html_utf8.txt:449:M.A Pakistan Studies from Sargodha University </p></div></div>				</div>
+  original_html_utf8.txt:450:				</div>
+  original_html_utf8.txt:451:					</div>
+  original_html_utf8.txt:452:		</div>
+  original_html_utf8.txt:453:				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element 
+elementor-element-b23c431" data-id="b23c431" data-element_type="column">
+  original_html_utf8.txt:454:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:455:						<div class="elementor-element elementor-element-da39995 elementor-position-top 
+elementor-widget elementor-widget-image-box" data-id="da39995" data-element_type="widget" 
+data-widget_type="image-box.default">
+  original_html_utf8.txt:456:				<div class="elementor-widget-container">
+  original_html_utf8.txt:457:					<div class="elementor-image-box-wrapper"><figure 
+class="elementor-image-box-img"><img loading="lazy" decoding="async" width="359" height="477" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747573041403-removebg-preview.png" class="attachment-large 
+size-large wp-image-3873" alt="" 
+srcset="https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747573041403-removebg-preview.png 359w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747573041403-removebg-preview-226x300.png 226w" 
+sizes="(max-width: 359px) 100vw, 359px" /></figure><div class="elementor-image-box-content"><h3 
+class="elementor-image-box-title">Mr. M. Sadiq</h3><p class="elementor-image-box-description"><b>Lecturer In 
+Islamiat.</b>
+  original_html_utf8.txt:458:M.A Islamiat  From Peshawar University <br>
+  original_html_utf8.txt:459:B.Ed from AIOU Islamabad</p></div></div>				</div>
+  original_html_utf8.txt:460:				</div>
+  original_html_utf8.txt:461:					</div>
+  original_html_utf8.txt:462:		</div>
+  original_html_utf8.txt:463:				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element 
+elementor-element-343d201" data-id="343d201" data-element_type="column">
+  original_html_utf8.txt:464:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:465:						<div class="elementor-element elementor-element-a8b7ba2 elementor-position-top 
+elementor-widget elementor-widget-image-box" data-id="a8b7ba2" data-element_type="widget" 
+data-widget_type="image-box.default">
+  original_html_utf8.txt:466:				<div class="elementor-widget-container">
+  original_html_utf8.txt:467:					<div class="elementor-image-box-wrapper"><figure 
+class="elementor-image-box-img"><img loading="lazy" decoding="async" width="896" height="1064" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-1.15.21-PM.jpeg" 
+class="attachment-full size-full wp-image-4008" alt="" 
+srcset="https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-1.15.21-PM.jpeg 896w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-1.15.21-PM-253x300.jpeg 253w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-1.15.21-PM-862x1024.jpeg 862w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-1.15.21-PM-768x912.jpeg 768w" 
+sizes="(max-width: 896px) 100vw, 896px" /></figure><div class="elementor-image-box-content"><h3 
+class="elementor-image-box-title">Mr. Ziaullah</h3><p class="elementor-image-box-description"><b>Lecturer In Urdu.</b>
+  original_html_utf8.txt:468:M.A Urdu From University of the Punjab <br>
+  original_html_utf8.txt:469:B.Ed from AIOU Islamabad</p></div></div>				</div>
+  original_html_utf8.txt:470:				</div>
+  original_html_utf8.txt:471:					</div>
+  original_html_utf8.txt:472:		</div>
+  original_html_utf8.txt:473:					</div>
+  original_html_utf8.txt:474:		</section>
+  original_html_utf8.txt:475:				<section class="elementor-section elementor-top-section elementor-element 
+elementor-element-cd65542 elementor-section-boxed elementor-section-height-default elementor-section-height-default" 
+data-id="cd65542" data-element_type="section">
+  original_html_utf8.txt:476:						<div class="elementor-container elementor-column-gap-default">
+  original_html_utf8.txt:477:					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element 
+elementor-element-cb4e2af" data-id="cb4e2af" data-element_type="column">
+  original_html_utf8.txt:478:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:479:						<div class="elementor-element elementor-element-d8aa1bf elementor-position-top 
+elementor-widget elementor-widget-image-box" data-id="d8aa1bf" data-element_type="widget" 
+data-widget_type="image-box.default">
+  original_html_utf8.txt:480:				<div class="elementor-widget-container">
+  original_html_utf8.txt:481:					<div class="elementor-image-box-wrapper"><figure 
+class="elementor-image-box-img"><img loading="lazy" decoding="async" width="341" height="471" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747575933116-removebg-preview.png" class="attachment-large 
+size-large wp-image-3876" alt="" 
+srcset="https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747575933116-removebg-preview.png 341w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747575933116-removebg-preview-217x300.png 217w" 
+sizes="(max-width: 341px) 100vw, 341px" /></figure><div class="elementor-image-box-content"><h3 
+class="elementor-image-box-title">Mr. Mazhar Ali</h3><p class="elementor-image-box-description"><b>Lecturer In 
+Physics.</b>
+  original_html_utf8.txt:482:Bs Physics  From KIU Gilgit <br>
+  original_html_utf8.txt:483:B.Ed from AIOU Islamabad</p></div></div>				</div>
+  original_html_utf8.txt:484:				</div>
+  original_html_utf8.txt:485:					</div>
+  original_html_utf8.txt:486:		</div>
+  original_html_utf8.txt:487:				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element 
+elementor-element-f029d4c" data-id="f029d4c" data-element_type="column">
+  original_html_utf8.txt:488:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:489:						<div class="elementor-element elementor-element-81796af elementor-position-top 
+elementor-widget elementor-widget-image-box" data-id="81796af" data-element_type="widget" 
+data-widget_type="image-box.default">
+  original_html_utf8.txt:490:				<div class="elementor-widget-container">
+  original_html_utf8.txt:491:					<div class="elementor-image-box-wrapper"><figure 
+class="elementor-image-box-img"><img loading="lazy" decoding="async" width="395" height="465" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747577341749-removebg-preview.png" class="attachment-large 
+size-large wp-image-3877" alt="" 
+srcset="https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747577341749-removebg-preview.png 395w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747577341749-removebg-preview-255x300.png 255w" 
+sizes="(max-width: 395px) 100vw, 395px" /></figure><div class="elementor-image-box-content"><h3 
+class="elementor-image-box-title">Mr. Ahmad Khan</h3><p class="elementor-image-box-description"><b>Lecturer In 
+Physics.</b>
+  original_html_utf8.txt:492:Bs Physics  From KIU Gilgit <br>
+  original_html_utf8.txt:493:B.Ed from AIOU Islamabad</p></div></div>				</div>
+  original_html_utf8.txt:494:				</div>
+  original_html_utf8.txt:495:					</div>
+  original_html_utf8.txt:496:		</div>
+  original_html_utf8.txt:497:				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element 
+elementor-element-82ee71a" data-id="82ee71a" data-element_type="column">
+  original_html_utf8.txt:498:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:499:						<div class="elementor-element elementor-element-34aba2f elementor-position-top 
+elementor-widget elementor-widget-image-box" data-id="34aba2f" data-element_type="widget" 
+data-widget_type="image-box.default">
+  original_html_utf8.txt:500:				<div class="elementor-widget-container">
+  original_html_utf8.txt:501:					<div class="elementor-image-box-wrapper"><figure 
+class="elementor-image-box-img"><img loading="lazy" decoding="async" width="259" height="294" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747573865871-removebg-preview.png" class="attachment-full 
+size-full wp-image-3874" alt="" /></figure><div class="elementor-image-box-content"><h3 
+class="elementor-image-box-title">Mr. Riaz Ali</h3><p class="elementor-image-box-description"><b>Lecturer In 
+Biology.</b>
+  original_html_utf8.txt:502:M.Phil in wild life ecology  From Qaid-i- Azam University Islamabad  <br>
+  original_html_utf8.txt:503:Bs hons zoology from KIU</p></div></div>				</div>
+  original_html_utf8.txt:504:				</div>
+  original_html_utf8.txt:505:					</div>
+  original_html_utf8.txt:506:		</div>
+  original_html_utf8.txt:507:				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element 
+elementor-element-e6911a8" data-id="e6911a8" data-element_type="column">
+  original_html_utf8.txt:508:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:509:						<div class="elementor-element elementor-element-1abcb3c elementor-position-top 
+elementor-widget elementor-widget-image-box" data-id="1abcb3c" data-element_type="widget" 
+data-widget_type="image-box.default">
+  original_html_utf8.txt:510:				<div class="elementor-widget-container">
+  original_html_utf8.txt:511:					<div class="elementor-image-box-wrapper"><figure 
+class="elementor-image-box-img"><img loading="lazy" decoding="async" width="403" height="453" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747578628919-removebg-preview.png" class="attachment-full 
+size-full wp-image-3878" alt="" 
+srcset="https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747578628919-removebg-preview.png 403w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747578628919-removebg-preview-267x300.png 267w" 
+sizes="(max-width: 403px) 100vw, 403px" /></figure><div class="elementor-image-box-content"><h3 
+class="elementor-image-box-title">Mr. Asif Ali</h3><p class="elementor-image-box-description"><b>Lecturer In 
+English.</b>
+  original_html_utf8.txt:512:M.A English  From NUML University Islamabad <br>
+  original_html_utf8.txt:513:B.Ed from Sarhad University Peshawar.</p></div></div>				</div>
+  original_html_utf8.txt:514:				</div>
+  original_html_utf8.txt:515:					</div>
+  original_html_utf8.txt:516:		</div>
+  original_html_utf8.txt:517:				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element 
+elementor-element-8f1538e" data-id="8f1538e" data-element_type="column">
+  original_html_utf8.txt:518:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:519:						<div class="elementor-element elementor-element-0da23a9 elementor-position-top 
+elementor-widget elementor-widget-image-box" data-id="0da23a9" data-element_type="widget" 
+data-widget_type="image-box.default">
+  original_html_utf8.txt:520:				<div class="elementor-widget-container">
+  original_html_utf8.txt:521:					<div class="elementor-image-box-wrapper"><figure 
+class="elementor-image-box-img"><img loading="lazy" decoding="async" width="377" height="465" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747580719096-removebg-preview.png" class="attachment-full 
+size-full wp-image-3870" alt="" 
+srcset="https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747580719096-removebg-preview.png 377w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747580719096-removebg-preview-243x300.png 243w" 
+sizes="(max-width: 377px) 100vw, 377px" /></figure><div class="elementor-image-box-content"><h3 
+class="elementor-image-box-title">Mr. M. Farooq</h3><p class="elementor-image-box-description"><b>Lecturer In 
+Islamiat.</b>
+  original_html_utf8.txt:522:M.Phil Islamiat  From AIOU Islamabad <br>
+  original_html_utf8.txt:523:B.Ed from KIU Gilgt</p></div></div>				</div>
+  original_html_utf8.txt:524:				</div>
+  original_html_utf8.txt:525:					</div>
+  original_html_utf8.txt:526:		</div>
+  original_html_utf8.txt:527:					</div>
+  original_html_utf8.txt:528:		</section>
+  original_html_utf8.txt:529:				<section class="elementor-section elementor-top-section elementor-element 
+elementor-element-6ca81a5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" 
+data-id="6ca81a5" data-element_type="section">
+  original_html_utf8.txt:530:						<div class="elementor-container elementor-column-gap-default">
+  original_html_utf8.txt:531:					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element 
+elementor-element-d9dfa7d" data-id="d9dfa7d" data-element_type="column">
+  original_html_utf8.txt:532:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:533:						<div class="elementor-element elementor-element-91d95dd elementor-position-top 
+elementor-widget elementor-widget-image-box" data-id="91d95dd" data-element_type="widget" 
+data-widget_type="image-box.default">
+  original_html_utf8.txt:534:				<div class="elementor-widget-container">
+  original_html_utf8.txt:535:					<div class="elementor-image-box-wrapper"><figure 
+class="elementor-image-box-img"><img loading="lazy" decoding="async" width="357" height="455" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747578680122-removebg-preview.png" class="attachment-full 
+size-full wp-image-3879" alt="" 
+srcset="https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747578680122-removebg-preview.png 357w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747578680122-removebg-preview-235x300.png 235w" 
+sizes="(max-width: 357px) 100vw, 357px" /></figure><div class="elementor-image-box-content"><h3 
+class="elementor-image-box-title">Mr. Asif Hussain</h3><p class="elementor-image-box-description"><b>Lecturer In 
+Urdu.</b>
+  original_html_utf8.txt:536:M.Phil Urdu From KIU GILGIT <br>
+  original_html_utf8.txt:537:B.Ed from VU Lahore</p></div></div>				</div>
+  original_html_utf8.txt:538:				</div>
+  original_html_utf8.txt:539:					</div>
+  original_html_utf8.txt:540:		</div>
+  original_html_utf8.txt:541:				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element 
+elementor-element-d365358" data-id="d365358" data-element_type="column">
+  original_html_utf8.txt:542:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:543:						<div class="elementor-element elementor-element-67ddca2 elementor-position-top 
+elementor-widget elementor-widget-image-box" data-id="67ddca2" data-element_type="widget" 
+data-widget_type="image-box.default">
+  original_html_utf8.txt:544:				<div class="elementor-widget-container">
+  original_html_utf8.txt:545:					<div class="elementor-image-box-wrapper"><figure 
+class="elementor-image-box-img"><img loading="lazy" decoding="async" width="369" height="447" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747578740016-removebg-preview.png" class="attachment-full 
+size-full wp-image-3868" alt="" 
+srcset="https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747578740016-removebg-preview.png 369w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/05/ei_1747578740016-removebg-preview-248x300.png 248w" 
+sizes="(max-width: 369px) 100vw, 369px" /></figure><div class="elementor-image-box-content"><h3 
+class="elementor-image-box-title">Mr. Imtiaz Alam</h3><p class="elementor-image-box-description"><b>Lecturer In 
+chemistry.</b>
+  original_html_utf8.txt:546:Bs Chemistry  From Abbottabad University <br>
+  original_html_utf8.txt:547:B.Ed from Sarhad University Peshawar</p></div></div>				</div>
+  original_html_utf8.txt:548:				</div>
+  original_html_utf8.txt:549:					</div>
+  original_html_utf8.txt:550:		</div>
+  original_html_utf8.txt:551:				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element 
+elementor-element-182075a" data-id="182075a" data-element_type="column">
+  original_html_utf8.txt:552:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:553:						<div class="elementor-element elementor-element-02baf2c elementor-position-top 
+elementor-widget elementor-widget-image-box" data-id="02baf2c" data-element_type="widget" 
+data-widget_type="image-box.default">
+  original_html_utf8.txt:554:				<div class="elementor-widget-container">
+  original_html_utf8.txt:555:					<div class="elementor-image-box-wrapper"><figure 
+class="elementor-image-box-img"><img loading="lazy" decoding="async" width="560" height="548" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-10.28.10-AM.jpeg" 
+class="attachment-large size-large wp-image-3985" alt="" 
+srcset="https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-10.28.10-AM.jpeg 560w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-10.28.10-AM-300x294.jpeg 300w" 
+sizes="(max-width: 560px) 100vw, 560px" /></figure><div class="elementor-image-box-content"><h3 
+class="elementor-image-box-title">Dr. Izaz Ali</h3><p class="elementor-image-box-description"><b>Lecturer of Biology. 
+</b> PhD From Anhui Normal University China</p></div></div>				</div>
+  original_html_utf8.txt:556:				</div>
+  original_html_utf8.txt:557:					</div>
+  original_html_utf8.txt:558:		</div>
+  original_html_utf8.txt:559:				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element 
+elementor-element-9ab0846" data-id="9ab0846" data-element_type="column">
+  original_html_utf8.txt:560:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:561:						<div class="elementor-element elementor-element-4c554b8 elementor-position-top 
+elementor-widget elementor-widget-image-box" data-id="4c554b8" data-element_type="widget" 
+data-widget_type="image-box.default">
+  original_html_utf8.txt:562:				<div class="elementor-widget-container">
+  original_html_utf8.txt:563:					<div class="elementor-image-box-wrapper"><figure 
+class="elementor-image-box-img"><img loading="lazy" decoding="async" width="982" height="1280" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-10.27.18-AM.jpeg" 
+class="attachment-full size-full wp-image-3982" alt="" 
+srcset="https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-10.27.18-AM.jpeg 982w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-10.27.18-AM-230x300.jpeg 230w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-10.27.18-AM-786x1024.jpeg 786w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-10.27.18-AM-768x1001.jpeg 768w" 
+sizes="(max-width: 982px) 100vw, 982px" /></figure><div class="elementor-image-box-content"><h3 
+class="elementor-image-box-title">Mr. Waseem Sardar</h3><p class="elementor-image-box-description"><b>Lecturer in 
+Mathematics.</b> Phd Scholar (University of Peshawar), MS in Mathematics from Qurtuba University Peshawar. M.Ed From 
+University of Swabi. </p></div></div>				</div>
+  original_html_utf8.txt:564:				</div>
+  original_html_utf8.txt:565:					</div>
+  original_html_utf8.txt:566:		</div>
+  original_html_utf8.txt:567:				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element 
+elementor-element-6ec6a62" data-id="6ec6a62" data-element_type="column">
+  original_html_utf8.txt:568:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:569:						<div class="elementor-element elementor-element-c4ed544 elementor-position-top 
+elementor-widget elementor-widget-image-box" data-id="c4ed544" data-element_type="widget" 
+data-widget_type="image-box.default">
+  original_html_utf8.txt:570:				<div class="elementor-widget-container">
+  original_html_utf8.txt:571:					<div class="elementor-image-box-wrapper"><figure 
+class="elementor-image-box-img"><img loading="lazy" decoding="async" width="815" height="1114" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-10.27.44-AM.jpeg" 
+class="attachment-full size-full wp-image-3984" alt="" 
+srcset="https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-10.27.44-AM.jpeg 815w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-10.27.44-AM-219x300.jpeg 219w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-10.27.44-AM-749x1024.jpeg 749w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-10.27.44-AM-768x1050.jpeg 768w" 
+sizes="(max-width: 815px) 100vw, 815px" /></figure><div class="elementor-image-box-content"><h3 
+class="elementor-image-box-title">Mr. Kashif Ur Rehman </h3><p class="elementor-image-box-description"><b>Lecturer in 
+Computer Science</b> MCS From Peshawar University</p></div></div>				</div>
+  original_html_utf8.txt:572:				</div>
+  original_html_utf8.txt:573:					</div>
+  original_html_utf8.txt:574:		</div>
+  original_html_utf8.txt:575:					</div>
+  original_html_utf8.txt:576:		</section>
+  original_html_utf8.txt:577:				<section class="elementor-section elementor-top-section elementor-element 
+elementor-element-18efb36 elementor-section-boxed elementor-section-height-default elementor-section-height-default" 
+data-id="18efb36" data-element_type="section">
+  original_html_utf8.txt:578:						<div class="elementor-container elementor-column-gap-default">
+  original_html_utf8.txt:579:					<div class="elementor-column elementor-col-100 elementor-top-column 
+elementor-element elementor-element-c2c23a1" data-id="c2c23a1" data-element_type="column">
+  original_html_utf8.txt:580:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:581:						<div class="elementor-element elementor-element-77648b2 elementor-widget 
+elementor-widget-heading" data-id="77648b2" data-element_type="widget" data-widget_type="heading.default">
+  original_html_utf8.txt:582:				<div class="elementor-widget-container">
+  original_html_utf8.txt:583:					<h2 class="elementor-heading-title elementor-size-default">Our Campus Gallery</h2>			
+	</div>
+  original_html_utf8.txt:584:				</div>
+  original_html_utf8.txt:585:					</div>
+  original_html_utf8.txt:586:		</div>
+  original_html_utf8.txt:587:					</div>
+  original_html_utf8.txt:588:		</section>
+  original_html_utf8.txt:589:				<section class="elementor-section elementor-top-section elementor-element 
+elementor-element-69a70ef elementor-section-boxed elementor-section-height-default elementor-section-height-default" 
+data-id="69a70ef" data-element_type="section">
+  original_html_utf8.txt:590:						<div class="elementor-container elementor-column-gap-default">
+  original_html_utf8.txt:591:					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element 
+elementor-element-787f922" data-id="787f922" data-element_type="column">
+  original_html_utf8.txt:592:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:593:						<div class="elementor-element elementor-element-e27474a elementor-widget 
+elementor-widget-image" data-id="e27474a" data-element_type="widget" data-widget_type="image.default">
+  original_html_utf8.txt:594:				<div class="elementor-widget-container">
+  original_html_utf8.txt:595:															<img loading="lazy" decoding="async" width="984" height="432" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.48.15-PM.jpeg" 
+class="attachment-large size-large wp-image-4016" alt="" 
+srcset="https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.48.15-PM.jpeg 984w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.48.15-PM-300x132.jpeg 300w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.48.15-PM-768x337.jpeg 768w" 
+sizes="(max-width: 984px) 100vw, 984px" />															</div>
+  original_html_utf8.txt:596:				</div>
+  original_html_utf8.txt:597:					</div>
+  original_html_utf8.txt:598:		</div>
+  original_html_utf8.txt:599:				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element 
+elementor-element-ee459a8" data-id="ee459a8" data-element_type="column">
+  original_html_utf8.txt:600:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:601:						<div class="elementor-element elementor-element-8f6fac2 elementor-widget 
+elementor-widget-image" data-id="8f6fac2" data-element_type="widget" data-widget_type="image.default">
+  original_html_utf8.txt:602:				<div class="elementor-widget-container">
+  original_html_utf8.txt:603:															<img loading="lazy" decoding="async" width="1024" height="682" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.45.48-PM.jpeg" 
+class="attachment-large size-large wp-image-4012" alt="" 
+srcset="https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.45.48-PM.jpeg 1024w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.45.48-PM-300x200.jpeg 300w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.45.48-PM-768x512.jpeg 768w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.45.48-PM-150x100.jpeg 150w" 
+sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+  original_html_utf8.txt:604:				</div>
+  original_html_utf8.txt:605:					</div>
+  original_html_utf8.txt:606:		</div>
+  original_html_utf8.txt:607:				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element 
+elementor-element-042e00d" data-id="042e00d" data-element_type="column">
+  original_html_utf8.txt:608:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:609:						<div class="elementor-element elementor-element-db1570a elementor-widget 
+elementor-widget-image" data-id="db1570a" data-element_type="widget" data-widget_type="image.default">
+  original_html_utf8.txt:610:				<div class="elementor-widget-container">
+  original_html_utf8.txt:611:															<img loading="lazy" decoding="async" width="1024" height="565" src="https:/
+/ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.47.02-PM-e1758988876605-1024x565.jpeg" 
+class="attachment-large size-large wp-image-4015" alt="" srcset="https://ccchilas.edu.pk/wp-content/uploads/2025/09/Wha
+tsApp-Image-2025-09-27-at-8.47.02-PM-e1758988876605-1024x565.jpeg 1024w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.47.02-PM-e1758988876605-300x165.jpeg 
+300w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.47.02-PM-e1758988876605-768x424.jpeg 
+768w, https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.47.02-PM-e1758988876605.jpeg 
+1280w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+  original_html_utf8.txt:612:				</div>
+  original_html_utf8.txt:613:					</div>
+  original_html_utf8.txt:614:		</div>
+  original_html_utf8.txt:615:					</div>
+  original_html_utf8.txt:616:		</section>
+  original_html_utf8.txt:617:				<section class="elementor-section elementor-top-section elementor-element 
+elementor-element-e6a5baa elementor-section-boxed elementor-section-height-default elementor-section-height-default" 
+data-id="e6a5baa" data-element_type="section">
+  original_html_utf8.txt:618:						<div class="elementor-container elementor-column-gap-default">
+  original_html_utf8.txt:619:					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element 
+elementor-element-68df174" data-id="68df174" data-element_type="column">
+  original_html_utf8.txt:620:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:621:						<div class="elementor-element elementor-element-27bc95d elementor-widget 
+elementor-widget-image" data-id="27bc95d" data-element_type="widget" data-widget_type="image.default">
+  original_html_utf8.txt:622:				<div class="elementor-widget-container">
+  original_html_utf8.txt:623:															<img loading="lazy" decoding="async" width="1024" height="682" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.46.13-PM.jpeg" 
+class="attachment-large size-large wp-image-4013" alt="" 
+srcset="https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.46.13-PM.jpeg 1024w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.46.13-PM-300x200.jpeg 300w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.46.13-PM-768x512.jpeg 768w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-8.46.13-PM-150x100.jpeg 150w" 
+sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+  original_html_utf8.txt:624:				</div>
+  original_html_utf8.txt:625:					</div>
+  original_html_utf8.txt:626:		</div>
+  original_html_utf8.txt:627:				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element 
+elementor-element-a612147" data-id="a612147" data-element_type="column">
+  original_html_utf8.txt:628:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:629:						<div class="elementor-element elementor-element-13dc18d elementor-widget 
+elementor-widget-image" data-id="13dc18d" data-element_type="widget" data-widget_type="image.default">
+  original_html_utf8.txt:630:				<div class="elementor-widget-container">
+  original_html_utf8.txt:631:															<img loading="lazy" decoding="async" width="1024" height="472" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2024/03/20240323_093253-1024x472.jpg" class="attachment-large 
+size-large wp-image-3348" alt="" 
+srcset="https://ccchilas.edu.pk/wp-content/uploads/2024/03/20240323_093253-1024x472.jpg 1024w, 
+https://ccchilas.edu.pk/wp-content/uploads/2024/03/20240323_093253-300x138.jpg 300w, 
+https://ccchilas.edu.pk/wp-content/uploads/2024/03/20240323_093253-768x354.jpg 768w, 
+https://ccchilas.edu.pk/wp-content/uploads/2024/03/20240323_093253-1536x708.jpg 1536w, 
+https://ccchilas.edu.pk/wp-content/uploads/2024/03/20240323_093253-2048x944.jpg 2048w" sizes="(max-width: 1024px) 
+100vw, 1024px" />															</div>
+  original_html_utf8.txt:632:				</div>
+  original_html_utf8.txt:633:					</div>
+  original_html_utf8.txt:634:		</div>
+  original_html_utf8.txt:635:				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element 
+elementor-element-bfaa730" data-id="bfaa730" data-element_type="column">
+  original_html_utf8.txt:636:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:637:						<div class="elementor-element elementor-element-17ae60d elementor-widget 
+elementor-widget-image" data-id="17ae60d" data-element_type="widget" data-widget_type="image.default">
+  original_html_utf8.txt:638:				<div class="elementor-widget-container">
+  original_html_utf8.txt:639:															<img loading="lazy" decoding="async" width="1200" height="600" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2024/04/SAVE_20240228_203304-1200x600.jpg" 
+class="attachment-rdtheme-size1 size-rdtheme-size1 wp-image-3690" alt="" />															</div>
+  original_html_utf8.txt:640:				</div>
+  original_html_utf8.txt:641:					</div>
+  original_html_utf8.txt:642:		</div>
+  original_html_utf8.txt:643:					</div>
+  original_html_utf8.txt:644:		</section>
+  original_html_utf8.txt:645:				<section class="elementor-section elementor-top-section elementor-element 
+elementor-element-dbedb95 elementor-section-boxed elementor-section-height-default elementor-section-height-default" 
+data-id="dbedb95" data-element_type="section">
+  original_html_utf8.txt:646:						<div class="elementor-container elementor-column-gap-default">
+  original_html_utf8.txt:647:					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element 
+elementor-element-40b7e0a" data-id="40b7e0a" data-element_type="column">
+  original_html_utf8.txt:648:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:649:						<div class="elementor-element elementor-element-ee463c5 elementor-widget 
+elementor-widget-image" data-id="ee463c5" data-element_type="widget" data-widget_type="image.default">
+  original_html_utf8.txt:650:				<div class="elementor-widget-container">
+  original_html_utf8.txt:651:															<img loading="lazy" decoding="async" width="1024" height="768" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2024/03/IMG_1380-1024x768.jpg" class="attachment-large size-large 
+wp-image-3332" alt="" srcset="https://ccchilas.edu.pk/wp-content/uploads/2024/03/IMG_1380-1024x768.jpg 1024w, 
+https://ccchilas.edu.pk/wp-content/uploads/2024/03/IMG_1380-300x225.jpg 300w, 
+https://ccchilas.edu.pk/wp-content/uploads/2024/03/IMG_1380-768x576.jpg 768w, 
+https://ccchilas.edu.pk/wp-content/uploads/2024/03/IMG_1380-1536x1152.jpg 1536w, 
+https://ccchilas.edu.pk/wp-content/uploads/2024/03/IMG_1380-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 
+1024px" />															</div>
+  original_html_utf8.txt:652:				</div>
+  original_html_utf8.txt:653:					</div>
+  original_html_utf8.txt:654:		</div>
+  original_html_utf8.txt:655:				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element 
+elementor-element-934b7d8" data-id="934b7d8" data-element_type="column">
+  original_html_utf8.txt:656:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:657:						<div class="elementor-element elementor-element-d1828ac elementor-widget 
+elementor-widget-image" data-id="d1828ac" data-element_type="widget" data-widget_type="image.default">
+  original_html_utf8.txt:658:				<div class="elementor-widget-container">
+  original_html_utf8.txt:659:															<img loading="lazy" decoding="async" width="1024" height="769" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2024/03/IMG_20231124_110236-1024x769.jpg" class="attachment-large 
+size-large wp-image-3323" alt="" 
+srcset="https://ccchilas.edu.pk/wp-content/uploads/2024/03/IMG_20231124_110236-1024x769.jpg 1024w, 
+https://ccchilas.edu.pk/wp-content/uploads/2024/03/IMG_20231124_110236-300x225.jpg 300w, 
+https://ccchilas.edu.pk/wp-content/uploads/2024/03/IMG_20231124_110236-768x577.jpg 768w, 
+https://ccchilas.edu.pk/wp-content/uploads/2024/03/IMG_20231124_110236-1536x1153.jpg 1536w, 
+https://ccchilas.edu.pk/wp-content/uploads/2024/03/IMG_20231124_110236-2048x1538.jpg 2048w" sizes="(max-width: 1024px) 
+100vw, 1024px" />															</div>
+  original_html_utf8.txt:660:				</div>
+  original_html_utf8.txt:661:					</div>
+  original_html_utf8.txt:662:		</div>
+  original_html_utf8.txt:663:				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element 
+elementor-element-b9cb6be" data-id="b9cb6be" data-element_type="column">
+  original_html_utf8.txt:664:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:665:						<div class="elementor-element elementor-element-f9ce973 elementor-widget 
+elementor-widget-image" data-id="f9ce973" data-element_type="widget" data-widget_type="image.default">
+  original_html_utf8.txt:666:				<div class="elementor-widget-container">
+  original_html_utf8.txt:667:															<img decoding="async" src="https://ccchilas.edu.pk/wp-content/uploads/eleme
+ntor/thumbs/JL3A04811-scaled-qkwcyxm193bjzi4vl2hw6ds8a197jtselke8aeixbc.jpg" title="JL3A0481[1]" alt="JL3A0481[1]" 
+loading="lazy" />															</div>
+  original_html_utf8.txt:668:				</div>
+  original_html_utf8.txt:669:					</div>
+  original_html_utf8.txt:670:		</div>
+  original_html_utf8.txt:671:					</div>
+  original_html_utf8.txt:672:		</section>
+  original_html_utf8.txt:673:				<section class="elementor-section elementor-top-section elementor-element 
+elementor-element-8aebf3d elementor-section-boxed elementor-section-height-default elementor-section-height-default" 
+data-id="8aebf3d" data-element_type="section">
+  original_html_utf8.txt:674:						<div class="elementor-container elementor-column-gap-default">
+  original_html_utf8.txt:675:					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element 
+elementor-element-a021f7e" data-id="a021f7e" data-element_type="column">
+  original_html_utf8.txt:676:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:677:						<div class="elementor-element elementor-element-f5f3db0 elementor-widget 
+elementor-widget-image" data-id="f5f3db0" data-element_type="widget" data-widget_type="image.default">
+  original_html_utf8.txt:678:				<div class="elementor-widget-container">
+  original_html_utf8.txt:679:															<img loading="lazy" decoding="async" width="1024" height="494" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2024/03/JL3A0471-1024x494.jpg" class="attachment-large size-large 
+wp-image-3271" alt="" srcset="https://ccchilas.edu.pk/wp-content/uploads/2024/03/JL3A0471-1024x494.jpg 1024w, 
+https://ccchilas.edu.pk/wp-content/uploads/2024/03/JL3A0471-300x145.jpg 300w, 
+https://ccchilas.edu.pk/wp-content/uploads/2024/03/JL3A0471-768x370.jpg 768w, 
+https://ccchilas.edu.pk/wp-content/uploads/2024/03/JL3A0471-1536x741.jpg 1536w, 
+https://ccchilas.edu.pk/wp-content/uploads/2024/03/JL3A0471-2048x988.jpg 2048w" sizes="(max-width: 1024px) 100vw, 
+1024px" />															</div>
+  original_html_utf8.txt:680:				</div>
+  original_html_utf8.txt:681:					</div>
+  original_html_utf8.txt:682:		</div>
+  original_html_utf8.txt:683:				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element 
+elementor-element-0e49bab" data-id="0e49bab" data-element_type="column">
+  original_html_utf8.txt:684:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:685:						<div class="elementor-element elementor-element-dc4c1ec elementor-widget 
+elementor-widget-image" data-id="dc4c1ec" data-element_type="widget" data-widget_type="image.default">
+  original_html_utf8.txt:686:				<div class="elementor-widget-container">
+  original_html_utf8.txt:687:															<img decoding="async" src="https://ccchilas.edu.pk/wp-content/uploads/eleme
+ntor/thumbs/JL3A0466-scaled-qktgyhrfydesgq6lqv0de48072e82lwbmgefqg93hc.jpg" title="DIAMERIANS FIRST BATCH" 
+alt="DIAMERIANS FIRST BATCH" loading="lazy" />															</div>
+  original_html_utf8.txt:688:				</div>
+  original_html_utf8.txt:689:					</div>
+  original_html_utf8.txt:690:		</div>
+  original_html_utf8.txt:691:				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element 
+elementor-element-b6a66a7" data-id="b6a66a7" data-element_type="column">
+  original_html_utf8.txt:692:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:693:						<div class="elementor-element elementor-element-a7e6454 elementor-widget 
+elementor-widget-image" data-id="a7e6454" data-element_type="widget" data-widget_type="image.default">
+  original_html_utf8.txt:694:				<div class="elementor-widget-container">
+  original_html_utf8.txt:695:															<img decoding="async" src="https://ccchilas.edu.pk/wp-content/uploads/eleme
+ntor/thumbs/IMG_20231124_125854-scaled-qmc45dcm1b45alt98pl6t7xfnp5uejxkbcrit0eaqo.jpg" title="IMG_20231124_125854" 
+alt="IMG_20231124_125854" loading="lazy" />															</div>
+  original_html_utf8.txt:696:				</div>
+  original_html_utf8.txt:697:					</div>
+  original_html_utf8.txt:698:		</div>
+  original_html_utf8.txt:699:					</div>
+  original_html_utf8.txt:700:		</section>
+  original_html_utf8.txt:701:				<section class="elementor-section elementor-top-section elementor-element 
+elementor-element-66315c1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" 
+data-id="66315c1" data-element_type="section">
+  original_html_utf8.txt:702:						<div class="elementor-container elementor-column-gap-default">
+  original_html_utf8.txt:703:					<div class="elementor-column elementor-col-100 elementor-top-column 
+elementor-element elementor-element-5ff42aa" data-id="5ff42aa" data-element_type="column">
+  original_html_utf8.txt:704:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:705:						<div class="elementor-element elementor-element-390cb18 elementor-widget 
+elementor-widget-heading" data-id="390cb18" data-element_type="widget" data-widget_type="heading.default">
+  original_html_utf8.txt:706:				<div class="elementor-widget-container">
+  original_html_utf8.txt:707:					<h2 class="elementor-heading-title elementor-size-default">Virtual Visit Cadet 
+College Diamer</h2>				</div>
+  original_html_utf8.txt:708:				</div>
+  original_html_utf8.txt:709:					</div>
+  original_html_utf8.txt:710:		</div>
+  original_html_utf8.txt:711:					</div>
+  original_html_utf8.txt:712:		</section>
+  original_html_utf8.txt:713:				<section class="elementor-section elementor-top-section elementor-element 
+elementor-element-38c3f48 elementor-section-boxed elementor-section-height-default elementor-section-height-default" 
+data-id="38c3f48" data-element_type="section">
+  original_html_utf8.txt:714:						<div class="elementor-container elementor-column-gap-default">
+  original_html_utf8.txt:715:					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element 
+elementor-element-32b305c" data-id="32b305c" data-element_type="column">
+  original_html_utf8.txt:716:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:717:						<div class="elementor-element elementor-element-e129800 elementor-widget 
+elementor-widget-image" data-id="e129800" data-element_type="widget" data-widget_type="image.default">
+  original_html_utf8.txt:718:				<div class="elementor-widget-container">
+  original_html_utf8.txt:719:																<a href="https://youtu.be/RuswgbwiUTU?si=by2ItMmGdKi6uSBS">
+  original_html_utf8.txt:720:							<img loading="lazy" decoding="async" width="1024" height="576" 
+src="https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-12.50.24-PM-1024x576.jpeg" 
+class="attachment-large size-large wp-image-3997" alt="" 
+srcset="https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-12.50.24-PM-1024x576.jpeg 
+1024w, https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-12.50.24-PM-300x169.jpeg 300w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-12.50.24-PM-768x432.jpeg 768w, 
+https://ccchilas.edu.pk/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-27-at-12.50.24-PM.jpeg 1280w" 
+sizes="(max-width: 1024px) 100vw, 1024px" />								</a>
+  original_html_utf8.txt:721:															</div>
+  original_html_utf8.txt:722:				</div>
+  original_html_utf8.txt:723:					</div>
+  original_html_utf8.txt:724:		</div>
+  original_html_utf8.txt:725:				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element 
+elementor-element-eb52a3d" data-id="eb52a3d" data-element_type="column">
+  original_html_utf8.txt:726:			<div class="elementor-widget-wrap">
+  original_html_utf8.txt:727:							</div>
+  original_html_utf8.txt:728:		</div>
+  original_html_utf8.txt:729:				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element 
+elementor-element-ae9a42f" data-id="ae9a42f" data-element_type="column">
+  original_html_utf8.txt:730:			<div class="elementor-widget-wrap">
+  original_html_utf8.txt:731:							</div>
+  original_html_utf8.txt:732:		</div>
+  original_html_utf8.txt:733:					</div>
+  original_html_utf8.txt:734:		</section>
+  original_html_utf8.txt:735:				<section class="elementor-section elementor-top-section elementor-element 
+elementor-element-74ebbc3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" 
+data-id="74ebbc3" data-element_type="section">
+  original_html_utf8.txt:736:						<div class="elementor-container elementor-column-gap-default">
+  original_html_utf8.txt:737:					<div class="elementor-column elementor-col-100 elementor-top-column 
+elementor-element elementor-element-ac9b156" data-id="ac9b156" data-element_type="column">
+  original_html_utf8.txt:738:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:739:						<div class="elementor-element elementor-element-5825bfa elementor-widget 
+elementor-widget-counter" data-id="5825bfa" data-element_type="widget" data-widget_type="counter.default">
+  original_html_utf8.txt:740:				<div class="elementor-widget-container">
+  original_html_utf8.txt:741:							<div class="elementor-counter">
+  original_html_utf8.txt:742:			<div class="elementor-counter-title">Passed Out Cadets</div>			<div 
+class="elementor-counter-number-wrapper">
+  original_html_utf8.txt:743:				<span class="elementor-counter-number-prefix"></span>
+  original_html_utf8.txt:744:				<span class="elementor-counter-number" data-duration="2000" data-to-value="240" 
+data-from-value="0" data-delimiter=",">0</span>
+  original_html_utf8.txt:745:				<span class="elementor-counter-number-suffix"></span>
+  original_html_utf8.txt:746:			</div>
+  original_html_utf8.txt:747:		</div>
+  original_html_utf8.txt:748:						</div>
+  original_html_utf8.txt:749:				</div>
+  original_html_utf8.txt:750:					</div>
+  original_html_utf8.txt:751:		</div>
+  original_html_utf8.txt:752:					</div>
+  original_html_utf8.txt:753:		</section>
+  original_html_utf8.txt:754:				<section class="elementor-section elementor-top-section elementor-element 
+elementor-element-56fd9c5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" 
+data-id="56fd9c5" data-element_type="section">
+  original_html_utf8.txt:755:						<div class="elementor-container elementor-column-gap-default">
+  original_html_utf8.txt:756:					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element 
+elementor-element-a9262d5" data-id="a9262d5" data-element_type="column">
+  original_html_utf8.txt:757:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:758:						<div class="elementor-element elementor-element-ee4e53d elementor-widget 
+elementor-widget-counter" data-id="ee4e53d" data-element_type="widget" data-widget_type="counter.default">
+  original_html_utf8.txt:759:				<div class="elementor-widget-container">
+  original_html_utf8.txt:760:							<div class="elementor-counter">
+  original_html_utf8.txt:761:			<div class="elementor-counter-title">Selected in Medical </div>			<div 
+class="elementor-counter-number-wrapper">
+  original_html_utf8.txt:762:				<span class="elementor-counter-number-prefix"></span>
+  original_html_utf8.txt:763:				<span class="elementor-counter-number" data-duration="2000" data-to-value="29" 
+data-from-value="0" data-delimiter=",">0</span>
+  original_html_utf8.txt:764:				<span class="elementor-counter-number-suffix"></span>
+  original_html_utf8.txt:765:			</div>
+  original_html_utf8.txt:766:		</div>
+  original_html_utf8.txt:767:						</div>
+  original_html_utf8.txt:768:				</div>
+  original_html_utf8.txt:769:					</div>
+  original_html_utf8.txt:770:		</div>
+  original_html_utf8.txt:771:				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element 
+elementor-element-81b7577" data-id="81b7577" data-element_type="column">
+  original_html_utf8.txt:772:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:773:						<div class="elementor-element elementor-element-bdb1240 elementor-widget 
+elementor-widget-counter" data-id="bdb1240" data-element_type="widget" data-widget_type="counter.default">
+  original_html_utf8.txt:774:				<div class="elementor-widget-container">
+  original_html_utf8.txt:775:							<div class="elementor-counter">
+  original_html_utf8.txt:776:			<div class="elementor-counter-title">Selected in Engineering</div>			<div 
+class="elementor-counter-number-wrapper">
+  original_html_utf8.txt:777:				<span class="elementor-counter-number-prefix"></span>
+  original_html_utf8.txt:778:				<span class="elementor-counter-number" data-duration="2000" data-to-value="48" 
+data-from-value="0" data-delimiter=",">0</span>
+  original_html_utf8.txt:779:				<span class="elementor-counter-number-suffix"></span>
+  original_html_utf8.txt:780:			</div>
+  original_html_utf8.txt:781:		</div>
+  original_html_utf8.txt:782:						</div>
+  original_html_utf8.txt:783:				</div>
+  original_html_utf8.txt:784:					</div>
+  original_html_utf8.txt:785:		</div>
+  original_html_utf8.txt:786:				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element 
+elementor-element-7f39a85" data-id="7f39a85" data-element_type="column">
+  original_html_utf8.txt:787:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:788:						<div class="elementor-element elementor-element-d693910 elementor-widget 
+elementor-widget-counter" data-id="d693910" data-element_type="widget" data-widget_type="counter.default">
+  original_html_utf8.txt:789:				<div class="elementor-widget-container">
+  original_html_utf8.txt:790:							<div class="elementor-counter">
+  original_html_utf8.txt:791:			<div class="elementor-counter-title">selected in PMA</div>			<div 
+class="elementor-counter-number-wrapper">
+  original_html_utf8.txt:792:				<span class="elementor-counter-number-prefix"></span>
+  original_html_utf8.txt:793:				<span class="elementor-counter-number" data-duration="2000" data-to-value="25" 
+data-from-value="0" data-delimiter=",">0</span>
+  original_html_utf8.txt:794:				<span class="elementor-counter-number-suffix"></span>
+  original_html_utf8.txt:795:			</div>
+  original_html_utf8.txt:796:		</div>
+  original_html_utf8.txt:797:						</div>
+  original_html_utf8.txt:798:				</div>
+  original_html_utf8.txt:799:					</div>
+  original_html_utf8.txt:800:		</div>
+  original_html_utf8.txt:801:					</div>
+  original_html_utf8.txt:802:		</section>
+  original_html_utf8.txt:803:				<section class="elementor-section elementor-top-section elementor-element 
+elementor-element-28c3cbc elementor-section-boxed elementor-section-height-default elementor-section-height-default" 
+data-id="28c3cbc" data-element_type="section">
+  original_html_utf8.txt:804:						<div class="elementor-container elementor-column-gap-default">
+  original_html_utf8.txt:805:					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element 
+elementor-element-edfb6d1" data-id="edfb6d1" data-element_type="column">
+  original_html_utf8.txt:806:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:807:						<div class="elementor-element elementor-element-fced46b elementor-widget 
+elementor-widget-counter" data-id="fced46b" data-element_type="widget" data-widget_type="counter.default">
+  original_html_utf8.txt:808:				<div class="elementor-widget-container">
+  original_html_utf8.txt:809:							<div class="elementor-counter">
+  original_html_utf8.txt:810:			<div class="elementor-counter-title">Abroad</div>			<div 
+class="elementor-counter-number-wrapper">
+  original_html_utf8.txt:811:				<span class="elementor-counter-number-prefix"></span>
+  original_html_utf8.txt:812:				<span class="elementor-counter-number" data-duration="2000" data-to-value="6" 
+data-from-value="0" data-delimiter=",">0</span>
+  original_html_utf8.txt:813:				<span class="elementor-counter-number-suffix"></span>
+  original_html_utf8.txt:814:			</div>
+  original_html_utf8.txt:815:		</div>
+  original_html_utf8.txt:816:						</div>
+  original_html_utf8.txt:817:				</div>
+  original_html_utf8.txt:818:					</div>
+  original_html_utf8.txt:819:		</div>
+  original_html_utf8.txt:820:				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element 
+elementor-element-350f817" data-id="350f817" data-element_type="column">
+  original_html_utf8.txt:821:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:822:						<div class="elementor-element elementor-element-bf9d3a5 elementor-widget 
+elementor-widget-counter" data-id="bf9d3a5" data-element_type="widget" data-widget_type="counter.default">
+  original_html_utf8.txt:823:				<div class="elementor-widget-container">
+  original_html_utf8.txt:824:							<div class="elementor-counter">
+  original_html_utf8.txt:825:			<div class="elementor-counter-title">IT</div>			<div 
+class="elementor-counter-number-wrapper">
+  original_html_utf8.txt:826:				<span class="elementor-counter-number-prefix"></span>
+  original_html_utf8.txt:827:				<span class="elementor-counter-number" data-duration="2000" data-to-value="17" 
+data-from-value="0" data-delimiter=",">0</span>
+  original_html_utf8.txt:828:				<span class="elementor-counter-number-suffix"></span>
+  original_html_utf8.txt:829:			</div>
+  original_html_utf8.txt:830:		</div>
+  original_html_utf8.txt:831:						</div>
+  original_html_utf8.txt:832:				</div>
+  original_html_utf8.txt:833:					</div>
+  original_html_utf8.txt:834:		</div>
+  original_html_utf8.txt:835:				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element 
+elementor-element-33e88ae" data-id="33e88ae" data-element_type="column">
+  original_html_utf8.txt:836:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:837:						<div class="elementor-element elementor-element-f33e5c7 elementor-widget 
+elementor-widget-counter" data-id="f33e5c7" data-element_type="widget" data-widget_type="counter.default">
+  original_html_utf8.txt:838:				<div class="elementor-widget-container">
+  original_html_utf8.txt:839:							<div class="elementor-counter">
+  original_html_utf8.txt:840:			<div class="elementor-counter-title">CA (in progress)</div>			<div 
+class="elementor-counter-number-wrapper">
+  original_html_utf8.txt:841:				<span class="elementor-counter-number-prefix"></span>
+  original_html_utf8.txt:842:				<span class="elementor-counter-number" data-duration="2000" data-to-value="2" 
+data-from-value="0" data-delimiter=",">0</span>
+  original_html_utf8.txt:843:				<span class="elementor-counter-number-suffix"></span>
+  original_html_utf8.txt:844:			</div>
+  original_html_utf8.txt:845:		</div>
+  original_html_utf8.txt:846:						</div>
+  original_html_utf8.txt:847:				</div>
+  original_html_utf8.txt:848:					</div>
+  original_html_utf8.txt:849:		</div>
+  original_html_utf8.txt:850:					</div>
+  original_html_utf8.txt:851:		</section>
+  original_html_utf8.txt:852:				<section class="elementor-section elementor-top-section elementor-element 
+elementor-element-d49dce7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" 
+data-id="d49dce7" data-element_type="section">
+  original_html_utf8.txt:853:						<div class="elementor-container elementor-column-gap-default">
+  original_html_utf8.txt:854:					<div class="elementor-column elementor-col-100 elementor-top-column 
+elementor-element elementor-element-f0c2348" data-id="f0c2348" data-element_type="column">
+  original_html_utf8.txt:855:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:856:						<div class="elementor-element elementor-element-1a26e5f 
+elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="1a26e5f" 
+data-element_type="widget" data-widget_type="divider.default">
+  original_html_utf8.txt:857:				<div class="elementor-widget-container">
+  original_html_utf8.txt:858:							<div class="elementor-divider">
+  original_html_utf8.txt:859:			<span class="elementor-divider-separator">
+  original_html_utf8.txt:860:						</span>
+  original_html_utf8.txt:861:		</div>
+  original_html_utf8.txt:862:						</div>
+  original_html_utf8.txt:863:				</div>
+  original_html_utf8.txt:864:					</div>
+  original_html_utf8.txt:865:		</div>
+  original_html_utf8.txt:866:					</div>
+  original_html_utf8.txt:867:		</section>
+  original_html_utf8.txt:868:				<section class="elementor-section elementor-top-section elementor-element 
+elementor-element-32095e3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" 
+data-id="32095e3" data-element_type="section">
+  original_html_utf8.txt:869:						<div class="elementor-container elementor-column-gap-default">
+  original_html_utf8.txt:870:					<div class="elementor-column elementor-col-100 elementor-top-column 
+elementor-element elementor-element-5acad52" data-id="5acad52" data-element_type="column">
+  original_html_utf8.txt:871:			<div class="elementor-widget-wrap elementor-element-populated">
+  original_html_utf8.txt:872:						<div class="elementor-element elementor-element-f180821 elementor-widget 
+elementor-widget-spacer" data-id="f180821" data-element_type="widget" data-widget_type="spacer.default">
+  original_html_utf8.txt:873:				<div class="elementor-widget-container">
+  original_html_utf8.txt:874:							<div class="elementor-spacer">
+  original_html_utf8.txt:875:			<div class="elementor-spacer-inner"></div>
+  original_html_utf8.txt:876:		</div>
+  original_html_utf8.txt:877:						</div>
+  original_html_utf8.txt:878:				</div>
+  original_html_utf8.txt:879:					</div>
+  original_html_utf8.txt:880:		</div>
+  original_html_utf8.txt:881:					</div>
+  original_html_utf8.txt:882:		</section>
+  original_html_utf8.txt:883:				</div>
+  original_html_utf8.txt:884:		</div><!-- #content -->
+  original_html_utf8.txt:885:<footer class="site-footer-wrap">
+  original_html_utf8.txt:886:	        <div class="footer-top-area">
+  original_html_utf8.txt:887:            <div class="container">
+  original_html_utf8.txt:888:                <div class="row">
+  original_html_utf8.txt:889:					<div class="col-md-4 col-sm-12 col-12"><div id="rdtheme_about-2" class="widget 
+widget_rdtheme_about"><h3 class="widgettitle"><img 
+src="https://ccchilas.edu.pk/wp-content/uploads/2023/05/Cadet-college-chilas-150x150.png" alt="Cadet College 
+Diamer">Cadet College Diamer</h3>            <p class="rtin-des">The Mission of Cadet College Diamer is to provide 
+quality education, personality development.</p>
+  original_html_utf8.txt:890:            <ul>
+  original_html_utf8.txt:891:				                    <li><a href="https://www.facebook.com/CadetColegeChilas/" 
+target="_blank"><i class="fab fa-facebook-f"></i></a></li>            </ul>
+  original_html_utf8.txt:892:
+  original_html_utf8.txt:893:			</div></div><div class="col-md-4 col-sm-12 col-12"></div><div class="col-md-4 
+col-sm-12 col-12"></div>                </div>
+  original_html_utf8.txt:894:            </div>
+  original_html_utf8.txt:895:        </div>
+  original_html_utf8.txt:896:		        <div class="footer-bottom-area">
+  original_html_utf8.txt:897:            <div class="container">
+  original_html_utf8.txt:898:                <div class="row">
+  original_html_utf8.txt:899:                    <div class="col-sm-12 col-xs-12 text-center">┬⌐ Copyright Cadet 
+College Diamer 2025.</div>
+  original_html_utf8.txt:900:					                </div>
+  original_html_utf8.txt:901:            </div>
+  original_html_utf8.txt:902:        </div>
+  original_html_utf8.txt:903:	</footer></div><!-- #page -->
+  original_html_utf8.txt:904:<a href="#" class="scrollToTop"><i class="fas fa-arrow-up"></i></a><script 
+type="speculationrules">
+  original_html_utf8.txt:905:{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_mat
+ches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-conte
+nt\/themes\/eikra\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".
+no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+  original_html_utf8.txt:906:</script>
+  original_html_utf8.txt:907:			<script>
+  original_html_utf8.txt:908:				const lazyloadRunObserver = () => {
+  original_html_utf8.txt:909:					const lazyloadBackgrounds = document.querySelectorAll( 
+`.e-con.e-parent:not(.e-lazyloaded)` );
+  original_html_utf8.txt:910:					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+  original_html_utf8.txt:911:						entries.forEach( ( entry ) => {
+  original_html_utf8.txt:912:							if ( entry.isIntersecting ) {
+  original_html_utf8.txt:913:								let lazyloadBackground = entry.target;
+  original_html_utf8.txt:914:								if( lazyloadBackground ) {
+  original_html_utf8.txt:915:									lazyloadBackground.classList.add( 'e-lazyloaded' );
+  original_html_utf8.txt:916:								}
+  original_html_utf8.txt:917:								lazyloadBackgroundObserver.unobserve( entry.target );
+  original_html_utf8.txt:918:							}
+  original_html_utf8.txt:919:						});
+  original_html_utf8.txt:920:					}, { rootMargin: '200px 0px 200px 0px' } );
+  original_html_utf8.txt:921:					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+  original_html_utf8.txt:922:						lazyloadBackgroundObserver.observe( lazyloadBackground );
+  original_html_utf8.txt:923:					} );
+  original_html_utf8.txt:924:				};
+  original_html_utf8.txt:925:				const events = [
+  original_html_utf8.txt:926:					'DOMContentLoaded',
+  original_html_utf8.txt:927:					'elementor/lazyload/observe',
+  original_html_utf8.txt:928:				];
+  original_html_utf8.txt:929:				events.forEach( ( event ) => {
+  original_html_utf8.txt:930:					document.addEventListener( event, lazyloadRunObserver );
+  original_html_utf8.txt:931:				} );
+  original_html_utf8.txt:932:			</script>
+  original_html_utf8.txt:933:			<script type="text/javascript" 
+src="https://ccchilas.edu.pk/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+  original_html_utf8.txt:934:<script type="text/javascript" 
+src="https://ccchilas.edu.pk/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+  original_html_utf8.txt:935:<script type="text/javascript" id="wp-i18n-js-after">
+  original_html_utf8.txt:936:/* <![CDATA[ */
+  original_html_utf8.txt:937:wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+  original_html_utf8.txt:938:/* ]]> */
+  original_html_utf8.txt:939:</script>
+  original_html_utf8.txt:940:<script type="text/javascript" 
+src="https://ccchilas.edu.pk/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.2" 
+id="swv-js"></script>
+  original_html_utf8.txt:941:<script type="text/javascript" id="contact-form-7-js-before">
+  original_html_utf8.txt:942:/* <![CDATA[ */
+  original_html_utf8.txt:943:var wpcf7 = {
+  original_html_utf8.txt:944:    "api": {
+  original_html_utf8.txt:945:        "root": "https:\/\/ccchilas.edu.pk\/wp-json\/",
+  original_html_utf8.txt:946:        "namespace": "contact-form-7\/v1"
+  original_html_utf8.txt:947:    }
+  original_html_utf8.txt:948:};
+  original_html_utf8.txt:949:/* ]]> */
+  original_html_utf8.txt:950:</script>
+  original_html_utf8.txt:951:<script type="text/javascript" 
+src="https://ccchilas.edu.pk/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.2" 
+id="contact-form-7-js"></script>
+  original_html_utf8.txt:952:<script type="text/javascript" 
+src="https://ccchilas.edu.pk/wp-content/themes/eikra/assets/js/bootstrap.min.js?ver=4.4.8" id="bootstrap-js"></script>
+  original_html_utf8.txt:953:<script type="text/javascript" 
+src="https://ccchilas.edu.pk/wp-content/themes/eikra/assets/js/jquery.nav.min.js?ver=4.4.8" 
+id="jquery-nav-js"></script>
+  original_html_utf8.txt:954:<script type="text/javascript" 
+src="https://ccchilas.edu.pk/wp-content/themes/eikra/assets/js/js.cookie.min.js?ver=4.4.8" id="js-cookie-js"></script>
+  original_html_utf8.txt:955:<script type="text/javascript" id="eikra-main-js-extra">
+  original_html_utf8.txt:956:/* <![CDATA[ */
+  original_html_utf8.txt:957:var EikraObj = {"ajaxurl":"https:\/\/ccchilas.edu.pk\/wp-admin\/admin-ajax.php","hasAdminB
+ar":"0","headerStyle":"6","stickyMenu":"1","primaryColor":"#720801","seconderyColor":"#fdc800","day":"Day","hour":"Hour
+","minute":"Minute","second":"Second","extraOffset":"70","extraOffsetMobile":"52","rtl":"no","vcRtl":"no"};
+  original_html_utf8.txt:958:/* ]]> */
+  original_html_utf8.txt:959:</script>
+  original_html_utf8.txt:960:<script type="text/javascript" 
+src="https://ccchilas.edu.pk/wp-content/themes/eikra/assets/js/main.js?ver=4.4.8" id="eikra-main-js"></script>
+  original_html_utf8.txt:961:<script type="text/javascript" 
+src="https://ccchilas.edu.pk/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.32.2" 
+id="elementor-webpack-runtime-js"></script>
+  original_html_utf8.txt:962:<script type="text/javascript" 
+src="https://ccchilas.edu.pk/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.32.2" 
+id="elementor-frontend-modules-js"></script>
+  original_html_utf8.txt:963:<script type="text/javascript" 
+src="https://ccchilas.edu.pk/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+  original_html_utf8.txt:964:<script type="text/javascript" id="elementor-frontend-js-before">
+  original_html_utf8.txt:965:/* <![CDATA[ */
+  original_html_utf8.txt:966:var elementorFrontendConfig = 
+{"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on 
+Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download 
+image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play 
+Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous 
+slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first 
+slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is
+_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":575,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobil
+e":{"label":"Mobile 
+Portrait","value":574,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile 
+Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet 
+Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landsc
+ape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"d
+efault_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value
+":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":true},"version":"3.32.2","is_static":false,"experi
+mentalFeatures":{"additional_custom_breakpoints":true,"landing-pages":true,"home_screen":true,"global_classes_should_en
+force_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"import-export-customization":
+true},"urls":{"assets":"https:\/\/ccchilas.edu.pk\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/ccchi
+las.edu.pk\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/ccchilas.edu.pk\/wp-content\/uploads"},"nonces":{"floating
+ButtonsClickTracking":"e071d97a6e"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"viewpo
+rt_mobile":574,"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enabl
+e_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbo
+x_title_src":"title","lightbox_description_src":"description"},"post":{"id":2164,"title":"Cadet%20College%20Diamer","ex
+cerpt":"","featuredImage":false}};
+  original_html_utf8.txt:967:/* ]]> */
+  original_html_utf8.txt:968:</script>
+  original_html_utf8.txt:969:<script type="text/javascript" 
+src="https://ccchilas.edu.pk/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.32.2" 
+id="elementor-frontend-js"></script>
+  original_html_utf8.txt:970:<script type="text/javascript" src="https://ccchilas.edu.pk/wp-content/plugins/elementor/a
+ssets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1" id="jquery-numerator-js"></script>
+  original_html_utf8.txt:971:<script type="text/javascript" id="layerslider-utils-js-extra">
+  original_html_utf8.txt:972:/* <![CDATA[ */
+  original_html_utf8.txt:973:var LS_Meta = {"v":"7.6.7","fixGSAP":"1"};
+  original_html_utf8.txt:974:/* ]]> */
+  original_html_utf8.txt:975:</script>
+  original_html_utf8.txt:976:<script type="text/javascript" src="https://ccchilas.edu.pk/wp-content/plugins/LayerSlider
+/assets/static/layerslider/js/layerslider.utils.js?ver=7.6.7" id="layerslider-utils-js"></script>
+  original_html_utf8.txt:977:<script type="text/javascript" src="https://ccchilas.edu.pk/wp-content/plugins/LayerSlider
+/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.6.7" id="layerslider-js"></script>
+  original_html_utf8.txt:978:<script type="text/javascript" id="layerslider-js-after">
+  original_html_utf8.txt:979:/* <![CDATA[ */
+  original_html_utf8.txt:980:jQuery(function() { _initLayerSlider( '#layerslider_3_3rg44jfmdqep', {sliderVersion: 
+'7.6.7', type: 'fullwidth', allowFullscreen: true, slideBGPosition: '50% 0%', pauseOnHover: 'enabled', skin: 'v6', 
+sliderFadeInDuration: 350, hoverPrevNext: false, navStartStop: false, navButtons: false, showCircleTimer: false, 
+useSrcset: true, skinsPath: 'https://ccchilas.edu.pk/wp-content/plugins/LayerSlider/assets/static/layerslider/skins/', 
+performanceMode: true}); });
+  original_html_utf8.txt:981:/* ]]> */
+  original_html_utf8.txt:982:</script>
+  original_html_utf8.txt:983:<script type="text/javascript" src="https://ccchilas.edu.pk/wp-content/plugins/LayerSlider
+/assets/static/layerslider/js/layerslider.transitions.js?ver=7.6.7" id="layerslider-transitions-js"></script>
+  original_html_utf8.txt:984:<script type="text/javascript" 
+src="https://ccchilas.edu.pk/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
+  original_html_utf8.txt:985:<script type="text/javascript" id="wp-util-js-extra">
+  original_html_utf8.txt:986:/* <![CDATA[ */
+  original_html_utf8.txt:987:var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+  original_html_utf8.txt:988:/* ]]> */
+  original_html_utf8.txt:989:</script>
+  original_html_utf8.txt:990:<script type="text/javascript" 
+src="https://ccchilas.edu.pk/wp-includes/js/wp-util.min.js?ver=6.8.3" id="wp-util-js"></script>
+  original_html_utf8.txt:991:<script type="text/javascript" id="wpforms-elementor-js-extra">
+  original_html_utf8.txt:992:/* <![CDATA[ */
+  original_html_utf8.txt:993:var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};
+  original_html_utf8.txt:994:/* ]]> */
+  original_html_utf8.txt:995:</script>
+  original_html_utf8.txt:996:<script type="text/javascript" 
+src="https://ccchilas.edu.pk/wp-content/plugins/wpforms/assets/js/integrations/elementor/frontend.min.js?ver=1.8.7.2" 
+id="wpforms-elementor-js"></script>
+  original_html_utf8.txt:997:<script type="application/ld+json">{
+  original_html_utf8.txt:998:    "@context": "https://schema.org",
+  original_html_utf8.txt:999:    "@type": "LocalBusiness"
+  original_html_utf8.txt:1000:}</script></body>
+  original_html_utf8.txt:1001:</html>
+
+
