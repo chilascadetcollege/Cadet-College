@@ -243,7 +243,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         const textEn = "Welcome to Cadet College Diamer. Molding the future leaders. We provide quality education and personality development through cognitive and physical grooming over 125 acres of breathtaking campus.";
-        
+
         // Native Urdu script (numbers replaced with words for better TTS API mapping)
         const textUrNative = "کیڈٹ کالج دیامر میں خوش آمدید۔ مستقبل کے معماروں کی تشکیل۔ ہم ایک سو پچیس ایکڑ کے وسیع کیمپس میں جسمانی اور ذہنی نشوونما کے ذریعے معیاری تعلیم اور شخصیت سازی پر توجہ دیتے ہیں۔";
 
@@ -252,16 +252,16 @@ document.addEventListener('DOMContentLoaded', () => {
             let playbackSpeed = 0.85; // Natural slow pace
 
             if (lang === 'en') {
-                audioUrl = `https://translate.googleapis.com/translate_tts?client=tw-ob&ie=UTF-8&tl=en&q=${encodeURIComponent(textEn)}`;
+                audioUrl = `https://translate.googleapis.com/translate_tts?client=gtx&ie=UTF-8&tl=en&q=${encodeURIComponent(textEn)}`;
             } else {
                 // Using 'ur' for native Urdu female voice via Google TTS
-                audioUrl = `https://translate.googleapis.com/translate_tts?client=tw-ob&ie=UTF-8&tl=ur&q=${encodeURIComponent(textUrNative)}`;
+                audioUrl = `https://translate.googleapis.com/translate_tts?client=gtx&ie=UTF-8&tl=ur&q=${encodeURIComponent(textUrNative)}`;
             }
 
             const audio = new Audio(audioUrl);
             audio.playbackRate = playbackSpeed;
             window.currentAudio = audio; // Save reference
-            
+
             audio.play().then(() => {
                 welcomePlayed = true;
             }).catch(e => {
@@ -279,7 +279,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const interactionTrigger = () => {
         if (!welcomePlayed) playWelcomeGreeting(currentLang);
     };
-    ['click', 'touchstart', 'scroll', 'keydown'].forEach(evt => {
+
+    // Bind to the document to ensure touches anywhere unlock audio securely
+    ['click', 'touchstart'].forEach(evt => {
         document.addEventListener(evt, interactionTrigger, { once: true });
     });
 

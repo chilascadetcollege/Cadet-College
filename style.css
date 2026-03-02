@@ -46,7 +46,7 @@ body {
 }
 
 body.rtl-mode {
-    font-family: 'Jameel Noori Nastaleeq', 'Inter', sans-serif;
+    font-family: 'Noto Nastaliq Urdu', 'Jameel Noori Nastaleeq', 'Inter', sans-serif;
     direction: rtl;
     text-align: right;
 }
@@ -58,8 +58,14 @@ body.rtl-mode h4,
 body.rtl-mode h5,
 body.rtl-mode h6,
 body.rtl-mode .btn-primary {
-    font-family: 'Jameel Noori Nastaleeq', sans-serif;
+    font-family: 'Noto Nastaliq Urdu', 'Jameel Noori Nastaleeq', sans-serif;
     letter-spacing: normal;
+    line-height: 1.8;
+}
+
+body.rtl-mode .hero-title,
+body.rtl-mode .mission-text {
+    line-height: 1.8;
 }
 
 body.rtl-mode .logo-text p {
