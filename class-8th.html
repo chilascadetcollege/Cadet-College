@@ -21,145 +21,41 @@
     <link rel="stylesheet" href="style.css">
     <style>
         .page-header {
-            padding-top: 100px;
+            padding-top: 150px;
             padding-bottom: 50px;
-            text-align: left;
-            background-color: #6a6a6a;
-        }
-
-        .page-header .title {
-            color: #ffffff;
-            font-size: 3.5rem;
-            margin-bottom: 0.5rem;
-            font-family: 'Inter', sans-serif;
-            font-weight: 500;
-        }
-
-        .page-header .subtitle {
-            color: #F5A623;
-            text-transform: none;
-            letter-spacing: normal;
-            font-weight: 500;
-            display: inline;
-        }
-
-        .page-header .subtitle-append {
-            color: #ffffff;
-            font-weight: 500;
-            font-family: 'Inter', sans-serif;
-            font-size: 0.9rem;
+            text-align: center;
         }
 
         .admission-content {
-            background-color: #ffffff;
-            color: #000000;
-            padding: 80px 0;
+            background: var(--glass-bg);
+            backdrop-filter: blur(16px);
+            border: 1px solid var(--glass-border);
+            border-radius: 20px;
+            padding: 4rem 3rem;
             text-align: center;
-            min-height: 40vh;
+            box-shadow: var(--glass-shadow);
+            max-width: 900px;
+            margin: 0 auto;
         }
 
         .admission-title {
-            color: #0a347b;
-            font-family: 'Inter', sans-serif;
+            color: var(--accent);
             font-size: 2.2rem;
-            font-weight: 600;
             margin-bottom: 2rem;
+            font-family: 'Outfit', sans-serif;
+            font-weight: 700;
         }
 
         .admission-text {
-            color: #111111;
+            color: var(--text-main);
             font-size: 1.1rem;
-            text-align: left;
-            max-width: 900px;
-            margin: 0 auto;
-            line-height: 1.5;
-            font-family: 'Inter', sans-serif;
-        }
-
-        /* Specific footer styling to match the provided design precisely */
-        .footer-red {
-            background-color: #7d0000;
-            border-top: 4px solid #cc9900;
-            padding-top: 40px;
-            padding-bottom: 20px;
-            position: relative;
-        }
-
-        .footer-brand-red {
-            display: flex;
-            align-items: center;
-            gap: 15px;
-        }
-
-        .footer-brand-red img {
-            height: 60px;
-        }
-
-        .footer-brand-red h2 {
-            color: #ffffff;
-            font-size: 1.6rem;
-            font-weight: 600;
-            font-family: 'Inter', sans-serif;
-            margin: 0;
-        }
-
-        .footer-mission {
-            color: #ffcc00;
-            font-family: 'Inter', sans-serif;
-            font-size: 1rem;
-            line-height: 1.8;
-            max-width: 400px;
-            margin-top: 2rem;
-            font-weight: 500;
-        }
-
-        .social-link-red {
-            display: inline-flex;
-            justify-content: center;
-            align-items: center;
-            width: 35px;
-            height: 35px;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            border-radius: 4px;
-            color: white;
-            margin-top: 2rem;
-            transition: all 0.3s;
-        }
-
-        .social-link-red:hover {
-            background-color: rgba(255, 255, 255, 0.1);
-            color: #ffcc00;
-        }
-
-        .copyright-red {
             text-align: center;
-            color: #ffcc00;
-            font-family: 'Inter', sans-serif;
-            font-weight: 500;
-            font-size: 0.95rem;
-            margin-top: 3rem;
+            line-height: 1.8;
+            font-weight: 300;
         }
 
-        .scroll-to-top-yellow {
-            position: absolute;
-            bottom: 20px;
-            right: 30px;
-            background-color: #ffcc00;
-            color: #7d0000;
-            width: 45px;
-            height: 45px;
-            border-radius: 50%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            font-size: 1.2rem;
-            text-decoration: none;
-            transition: transform 0.3s;
-        }
-
-        .scroll-to-top-yellow:hover {
-            transform: translateY(-5px);
-            color: #7d0000;
+        .admission-text p {
+            margin-bottom: 1rem;
         }
     </style>
 </head>
@@ -170,90 +66,96 @@
     <div class="cursor-dot" data-cursor-dot></div>
     <div class="cursor-outline" data-cursor-outline></div>
 
-    <!-- Background Animation Elements (Hidden in main content but kept for nav) -->
-    <div class="bg-shape shape-1" style="opacity: 0.1;"></div>
+    <!-- Background Animation Elements -->
+    <div class="bg-shape shape-1"></div>
+    <div class="bg-shape shape-2"></div>
+    <div class="bg-shape shape-3"></div>
 
-    <!-- Navigation (solid dark background like in image) -->
-    <header class="navbar" id="navbar"
-        style="background: rgba(125, 0, 0, 1); border-bottom: none; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+    <!-- Navigation -->
+    <header class="navbar" id="navbar">
         <div class="nav-container">
             <a href="index.html" class="logo">
                 <img class="logo-img" src="monogram.jpeg" alt="Monogram"
-                    style="height: 60px; width: auto; object-fit: contain; filter: drop-shadow(0 0 8px rgba(245, 166, 35, 0.5)); margin-top: 5px;">
+                    style="height: 50px; width: auto; object-fit: contain; filter: drop-shadow(0 0 8px rgba(245, 166, 35, 0.5));">
+                <div class="logo-text">
+                    <h1>Cadet College</h1>
+                    <p>Diamer, Chilas</p>
+                </div>
             </a>
 
             <button class="mobile-toggle" id="mobile-toggle">
                 <i class="fa-solid fa-bars"></i>
             </button>
 
-            <nav class="nav-links" id="nav-links" style="margin-left: auto;">
-                <a href="index.html" style="color: white; font-weight: 600;" data-i18n="nav_home">HOME</a>
-                <a href="about.html" style="color: white; font-weight: 600;" data-i18n="nav_about">OVERVIEW OF CCC</a>
-                <a href="faculty.html" style="color: white; font-weight: 600;" data-i18n="nav_faculty">ACADEMICS <i
-                        class="fa-solid fa-chevron-down" style="font-size: 0.7rem; margin-left: 3px;"></i></a>
+            <nav class="nav-links" id="nav-links">
+                <a href="index.html" data-i18n="nav_home">Home</a>
+                <a href="about.html" data-i18n="nav_about">About</a>
+                <a href="faculty.html" data-i18n="nav_faculty">Faculty</a>
                 <div class="nav-item-dropdown">
-                    <a href="admission.html" style="color: white; font-weight: 600;" data-i18n="nav_admission">ADMISSION
-                        <i class="fa-solid fa-chevron-down" style="font-size: 0.7rem; margin-left: 3px;"></i></a>
+                    <a href="admission.html" class="active" data-i18n="nav_admission">Admissions</a>
                     <div class="dropdown-content">
-                        <a href="class-8th.html" style="color: white;" data-i18n="nav_8th">Class 8th</a>
-                        <a href="1st-year.html" style="color: white;" data-i18n="nav_1st_year">1st Year</a>
+                        <a href="class-8th.html" class="active" data-i18n="nav_8th">Class 8th</a>
+                        <a href="1st-year.html" data-i18n="nav_1st_year">1st Year</a>
                     </div>
                 </div>
-                <a href="#" style="color: white; font-weight: 600;">CADET LIFE <i class="fa-solid fa-chevron-down"
-                        style="font-size: 0.7rem; margin-left: 3px;"></i></a>
-                <a href="#" style="color: white; font-weight: 600;">CAREERS <i class="fa-solid fa-chevron-down"
-                        style="font-size: 0.7rem; margin-left: 3px;"></i></a>
-                <a href="contact.html" style="color: white; font-weight: 600;" data-i18n="nav_contact">CONTACT US</a>
+                <a href="contact.html" data-i18n="nav_contact">Contact Us</a>
+                <button id="lang-toggle" class="btn-primary glow-btn"
+                    style="padding: 0.5rem 1rem; margin-inline-start: 1rem;">
+                    <i class="fa-solid fa-language"></i> <span id="lang-text">اردو</span>
+                </button>
             </nav>
         </div>
     </header>
 
     <!-- Header Section -->
-    <section class="page-header" style="margin-top: 80px;">
-        <div class="container reveal">
-            <h2 class="title" data-i18n="class_8th_title">Class 8th</h2>
-            <div>
-                <span class="subtitle" data-i18n="cadet_college_diamer">Cadet College Diamer</span>
-                <span class="subtitle-append"> - Class 8th</span>
-            </div>
+    <section class="page-header container">
+        <div class="section-header text-center reveal">
+            <span class="subtitle" data-i18n="nav_admission">Admissions</span>
+            <h2 class="title" data-i18n="class_8_admission">Class 8th <span class="accent-text">Admission</span></h2>
         </div>
     </section>
 
     <!-- Admission Content -->
-    <section class="admission-content">
+    <section class="section-padding" style="padding-top: 0;">
         <div class="container reveal">
-            <h2 class="admission-title" data-i18n="admission_notice_8">Admission Notice – Class 8</h2>
-            <div class="admission-text">
-                <p>Admissions for Class 8 are currently closed.<br>
-                    The admission schedule for the next intake will be announced in due course. Applicants and parents
-                    are advised to regularly visit the official website for updates.<br>
-                    For further information, please contact the admission office during working hours.<br>
-                    Thank you for your interest.</p>
+            <div class="admission-content">
+                <h3 class="admission-title" data-i18n="admission_notice_8">Admission Notice – Class 8</h3>
+                <div class="admission-text">
+                    <p data-i18n="class_8_notice_desc_1">Admissions for Class 8 are currently closed.</p>
+                    <p data-i18n="class_notice_desc_2">The admission schedule for the next intake will be announced in
+                        due course. Applicants and parents are advised to regularly visit the official website for
+                        updates.</p>
+                    <p data-i18n="class_notice_desc_3">For further information, please contact the admission office
+                        during working hours.</p>
+                    <p data-i18n="class_notice_desc_4">Thank you for your interest.</p>
+                </div>
             </div>
         </div>
     </section>
 
     <!-- Footer -->
-    <footer class="footer-red">
+    <footer class="footer">
         <div class="container">
-            <div class="footer-brand-red">
-                <img src="monogram.jpeg" alt="Monogram">
-                <h2>Cadet College Diamer</h2>
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <a href="index.html" class="logo">
+                        <img class="logo-img" src="monogram.jpeg" alt="Monogram"
+                            style="height: 50px; width: auto; object-fit: contain; filter: drop-shadow(0 0 8px rgba(245, 166, 35, 0.5));">
+                        <div class="logo-text">
+                            <h2>Cadet College</h2>
+                            <p>Diamer, Chilas</p>
+                        </div>
+                    </a>
+                    <p class="footer-desc" data-i18n="hero_desc">Molding the future leaders. We provide quality
+                        education and personality development through cognitive and physical grooming over 125 acres of
+                        breathtaking campus.</p>
+                </div>
             </div>
 
-            <p class="footer-mission">The Mission of Cadet College Diamer is to provide quality education, personality
-                development.</p>
-
-            <a href="https://web.facebook.com/CadetCollegeDiamerChilas" target="_blank" class="social-link-red"><i
-                    class="fa-brands fa-facebook-f"></i></a>
-
-            <div class="copyright-red">
-                &copy; Copyright Cadet College Diamer 2025.
+            <div class="footer-bottom">
+                <p>&copy; 2026 Cadet College Diamer. All rights reserved. Designed with ❤️ by Cadet College Diamer.</p>
             </div>
         </div>
-
-        <!-- Scroll To Top -->
-        <a href="#" class="scroll-to-top-yellow"><i class="fa-solid fa-arrow-up"></i></a>
     </footer>
 
     <!-- Scripts -->
