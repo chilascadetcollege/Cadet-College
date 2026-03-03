@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="ur" dir="ltr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Admissions Cadet College Diamer, Chilas">
+    <title>Cadet College Diamer | Admissions</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700;800&family=Noto+Nastaliq+Urdu:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+        .page-header {
+            padding-top: 150px;
+            padding-bottom: 50px;
+            text-align: center;
+        }
+
+        .admission-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .admission-card {
+            background: var(--glass-bg);
+            backdrop-filter: blur(16px);
+            border: 1px solid var(--glass-border);
+            border-radius: 20px;
+            padding: 3rem 2rem;
+            text-align: center;
+            transition: var(--transition);
+        }
+
+        .admission-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+            border-color: rgba(245, 166, 35, 0.3);
+        }
+
+        .admission-icon {
+            font-size: 3rem;
+            color: var(--accent);
+            margin-bottom: 1.5rem;
+        }
+
+        .admission-card h3 {
+            font-size: 1.8rem;
+            margin-bottom: 1rem;
+            color: white;
+        }
+
+        .admission-card p {
+            color: var(--text-muted);
+            margin-bottom: 2rem;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Custom Cursor -->
+    <div class="cursor-dot" data-cursor-dot></div>
+    <div class="cursor-outline" data-cursor-outline></div>
+
+    <!-- Background Animation Elements -->
+    <div class="bg-shape shape-1"></div>
+    <div class="bg-shape shape-2"></div>
+    <div class="bg-shape shape-3"></div>
+
+    <!-- Navigation -->
+    <header class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="logo">
+                <img class="logo-img" src="monogram.jpeg" alt="Monogram"
+                    style="height: 50px; width: auto; object-fit: contain; filter: drop-shadow(0 0 8px rgba(245, 166, 35, 0.5));">
+                <div class="logo-text">
+                    <h1>Cadet College</h1>
+                    <p>Diamer, Chilas</p>
+                </div>
+            </a>
+
+            <button class="mobile-toggle" id="mobile-toggle">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+
+            <nav class="nav-links" id="nav-links">
+                <a href="index.html" data-i18n="nav_home">Home</a>
+                <a href="about.html" data-i18n="nav_about">About</a>
+                <a href="faculty.html" data-i18n="nav_faculty">Faculty</a>
+                <div class="nav-item-dropdown">
+                    <a href="admission.html" class="active" data-i18n="nav_admission">Admissions</a>
+                    <div class="dropdown-content">
+                        <a href="class-8th.html" data-i18n="nav_8th">Class 8th</a>
+                        <a href="1st-year.html" data-i18n="nav_1st_year">1st Year</a>
+                    </div>
+                </div>
+                <a href="contact.html" data-i18n="nav_contact">Contact Us</a>
+                <button id="lang-toggle" class="btn-primary glow-btn"
+                    style="padding: 0.5rem 1rem; margin-inline-start: 1rem;">
+                    <i class="fa-solid fa-language"></i> <span id="lang-text">اردو</span>
+                </button>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Header Section -->
+    <section class="page-header container">
+        <div class="section-header text-center reveal">
+            <span class="subtitle" data-i18n="nav_admission">Admissions</span>
+            <h2 class="title" data-i18n="admissions_title">Join Cadet College <span class="accent-text">Diamer</span>
+            </h2>
+            <p class="section-desc" data-i18n="admissions_desc">Choose your level of entry and find out more about the
+                admission process.</p>
+        </div>
+    </section>
+
+    <!-- Admissions Options -->
+    <section class="section-padding" style="padding-top: 0;">
+        <div class="container">
+            <div class="admission-grid reveal">
+                <!-- Class 8th -->
+                <div class="admission-card">
+                    <div class="admission-icon"><i class="fa-solid fa-user-graduate"></i></div>
+                    <h3>Class 8th</h3>
+                    <p>Information regarding admission notices and schedules for Class 8th entry level.</p>
+                    <a href="class-8th.html" class="btn-primary glow-btn">View Details <i
+                            class="fa-solid fa-arrow-right"></i></a>
+                </div>
+
+                <!-- 1st Year -->
+                <div class="admission-card">
+                    <div class="admission-icon"><i class="fa-solid fa-book-open-reader"></i></div>
+                    <h3>1st Year (Intermediate)</h3>
+                    <p>Information regarding admission notices and schedules for 1st Year (FSc/FA) entry level.</p>
+                    <a href="1st-year.html" class="btn-primary glow-btn">View Details <i
+                            class="fa-solid fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <a href="index.html" class="logo">
+                        <img class="logo-img" src="monogram.jpeg" alt="Monogram"
+                            style="height: 50px; width: auto; object-fit: contain; filter: drop-shadow(0 0 8px rgba(245, 166, 35, 0.5));">
+                        <div class="logo-text">
+                            <h2>Cadet College</h2>
+                            <p>Diamer, Chilas</p>
+                        </div>
+                    </a>
+                    <p class="footer-desc">Molding the future leaders. We provide quality
+                        education and personality development through cognitive and physical grooming.</p>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <p>&copy; 2026 Cadet College Diamer. All rights reserved. Designed with ❤️ by Cadet College Diamer.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="script.js"></script>
+</body>
+
+</html>
