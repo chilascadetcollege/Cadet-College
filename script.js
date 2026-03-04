@@ -287,17 +287,14 @@ const initApp = () => {
             window.currentAudio.pause();
         }
 
-        const textEn = "Welcome to Cadet College Diamer. Molding the future leaders. We provide quality education and personality development through cognitive and physical grooming over 125 acres of breathtaking campus.";
-        const textUrNative = "\u06A9\u06CC\u0688\u0679 \u06A9\u0627\u0644\u062C \u062F\u06CC\u0627\u0645\u0631 \u0645\u06CC\u06BA \u062E\u0648\u0634 \u0622\u0645\u062F\u06CC\u062F\u06D4 \u0645\u0633\u062A\u0642\u0628\u0644 \u06A9\u06D2 \u0645\u0639\u0645\u0627\u0631\u0648\u06BA \u06A9\u06CC \u062A\u0634\u06A9\u06CC\u0644\u06D4 \u06C1\u0645 \u0627\u06CC\u06A9 \u0633\u0648 \u067E\u0686\u06CC\u0635 \u0627\u06CC\u06A9\u0691 \u06A9\u06CC\u0645\u067E\u0633 \u0645\u06CC\u06BA \u0630\u06C1\u0646\u06CC \u0627\u0648\u0631 \u062C\u0633\u0645\u0627\u0646\u06CC \u062A\u0631\u0628\u06CC\u062A \u06A9\u06D2 \u0630\u0631\u06CC\u0639\u06D2 \u0645\u0639\u06CC\u0627\u0631\u06CC \u062A\u0639\u0644\u06CC\u0645 \u0627\u0648\u0631 \u0634\u062E\u0635\u06CC\u062A \u0633\u0627\u0632\u06CC \u0641\u0631\u0627\u06C1\u0645 \u06A9\u0631\u062A\u06D2 \u06C1\u06CC\u06BA\u06D4";
-
         const playOnlineVoice = () => {
             let audioUrl = "";
             let playbackSpeed = 0.85;
 
             if (lang === "en") {
-                audioUrl = `https://translate.googleapis.com/translate_tts?client=gtx&ie=UTF-8&tl=en&q=${encodeURIComponent(textEn)}`;
+                audioUrl = "welcome_en.mp3";
             } else {
-                audioUrl = `https://translate.googleapis.com/translate_tts?client=gtx&ie=UTF-8&tl=ur&q=${encodeURIComponent(textUrNative)}`;
+                audioUrl = "welcome_ur.mp3";
             }
 
             const audio = new Audio(audioUrl);
