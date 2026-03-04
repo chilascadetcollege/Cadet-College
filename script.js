@@ -207,7 +207,7 @@ const admissionTranslations = {
         class_8_admission: '╪ó┘╣┌╛┘ê█î┌║ ┌⌐┘ä╪º╪│ ╪»╪º╪«┘ä█ü',
         admission_notice_8: '╪»╪º╪«┘ä█ü ┘å┘ê┘╣╪│ ΓÇô ┌⌐┘ä╪º╪│ 8',
         class_8_notice_desc_1: '┌⌐┘ä╪º╪│ 8 ┌⌐█Æ ╪»╪º╪«┘ä█Æ ┘ü█î ╪º┘ä╪¡╪º┘ä ╪¿┘å╪» █ü█î┌║█ö',
-        1st_year_admission: '┘ü╪▒╪│┘╣ ╪º█î╪ª╪▒ ╪»╪º╪«┘ä█ü',
+        "1st_year_admission": '┘ü╪▒╪│┘╣ ╪º█î╪ª╪▒ ╪»╪º╪«┘ä█ü',
         admission_notice_1st_year: '╪»╪º╪«┘ä█ü ┘å┘ê┘╣╪│ ΓÇô ┘ü╪▒╪│┘╣ ╪º█î╪ª╪▒',
         class_1st_year_notice_desc_1: '╪º╪│ ┘ê┘é╪¬ ┌⌐█î┌ê┘╣ ┌⌐╪º┘ä╪¼ ╪»█î╪º┘à╪▒ ┘à█î┌║ ┌»█î╪º╪▒█ü┘ê█î┌║ ╪¼┘à╪º╪╣╪¬ ┌⌐█Æ ╪»╪º╪«┘ä█Æ ┘å█ü█î┌║ ┌⌐┌╛┘ä█Æ █ü█î┌║█ö ╪¿╪▒╪º█ü ┌⌐╪▒┘à ╪º┘╛┌ê█î┘╣╪│ ┌⌐█Æ ┘ä█î█Æ █ü┘à╪º╪▒█Æ ╪│╪º╪¬┌╛ ╪¼┌æ█Æ ╪▒█ü█î┌║█ö',
         class_notice_desc_2: '╪º┌»┘ä█î ╪º┘å┘╣█î┌⌐ ┌⌐█Æ ┘ä█î█Æ ╪»╪º╪«┘ä█Æ ┌⌐╪º ╪┤█î┌ê┘ê┘ä ┘à┘é╪▒╪▒█ü ┘ê┘é╪¬ ┘╛╪▒ ╪¼╪º╪▒█î ┌⌐█î╪º ╪¼╪º╪ª█Æ ┌»╪º█ö ╪»╪▒╪«┘ê╪º╪│╪¬ ╪»█ü┘å╪»┌»╪º┘å ╪º┘ê╪▒ ┘ê╪º┘ä╪»█î┘å ┌⌐┘ê █ü╪»╪º█î╪¬ ┌⌐█î ╪¼╪º╪¬█î █ü█Æ ┌⌐█ü ┘ê█ü ╪¬╪º╪▓█ü ╪¬╪▒█î┘å ┘à╪╣┘ä┘ê┘à╪º╪¬ ┌⌐█Æ ┘ä█î█Æ ╪¿╪º┘é╪º╪╣╪»┌»█î ╪│█Æ ╪│╪▒┌⌐╪º╪▒█î ┘ê█î╪¿ ╪│╪º╪ª┘╣ ╪»█î┌⌐┌╛█î┌║█ö',
@@ -223,7 +223,7 @@ const admissionTranslations = {
         class_8_admission: 'Class 8th Admission',
         admission_notice_8: 'Admission Notice ΓÇô Class 8',
         class_8_notice_desc_1: 'Admissions for Class 8 are currently closed.',
-        1st_year_admission: '1st Year Admission',
+        "1st_year_admission": '1st Year Admission',
         admission_notice_1st_year: 'Admission Notice ΓÇô 1st Year',
         class_1st_year_notice_desc_1: 'Currently admissions for grade XI at Cadet College Diamer are not open. please stay connected with us for updates.',
         class_notice_desc_2: 'The admission schedule for the next intake will be announced in due course. Applicants and parents are advised to regularly visit the official website for updates.',
@@ -238,7 +238,7 @@ if (typeof translations !== 'undefined') {
     translations.en = { ...translations.en, ...admissionTranslations.en };
 }
 
-document.addEventListener("DOMContentLoaded", () => {
+const initApp = () => {
 
     let currentLang = localStorage.getItem("ccc_lang") || "en";
 
@@ -288,7 +288,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
         const textEn = "Welcome to Cadet College Diamer. Molding the future leaders. We provide quality education and personality development through cognitive and physical grooming over 125 acres of breathtaking campus.";
-        const textUrNative = "\u06A9\u06CC\u0688\u0679 \u06A9\u0627\u0644\u062C \u062F\u06CC\u0627\u0645\u0631 \u0645\u06CC\u06BA \u062E\u0648\u0634 \u0622\u0645\u062F\u06CC\u062F\u06D4 \u0645\u0633\u062A\u0642\u0628\u0644 \u06A9\u06D2 \u0645\u0639\u0645\u0627\u0631\u0648\u06BA \u06A9\u06CC \u062A\u0634\u06A9\u06CC\u0644\u06D4 \u06C1\u0645 \u0627\u06CC\u06A9 \u0633\u0648 \u067E\u0686\u06CC\u0633 \u0627\u06CC\u06A9\u0691 \u06A9\u06CC\u0645\u067E\u0633 \u0645\u06CC\u06BA \u0630\u06C1\u0646\u06CC \u0627\u0648\u0631 \u062C\u0633\u0645\u0627\u0646\u06CC \u062A\u0631\u0628\u06CC\u062A \u06A9\u06D2 \u0630\u0631\u06CC\u0639\u06D2 \u0645\u0639\u06CC\u0627\u0631\u06CC \u062A\u0639\u0644\u06CC\u0645 \u0627\u0648\u0631 \u0634\u062E\u0635\u06CC\u062A \u0633\u0627\u0632\u06CC \u0641\u0631\u0627\u06C1\u0645 \u06A9\u0631\u062A\u06D2 \u06C1\u06CC\u06BA\u06D4";
+        const textUrNative = "\u06A9\u06CC\u0688\u0679 \u06A9\u0627\u0644\u062C \u062F\u06CC\u0627\u0645\u0631 \u0645\u06CC\u06BA \u062E\u0648\u0634 \u0622\u0645\u062F\u06CC\u062F\u06D4 \u0645\u0633\u062A\u0642\u0628\u0644 \u06A9\u06D2 \u0645\u0639\u0645\u0627\u0631\u0648\u06BA \u06A9\u06CC \u062A\u0634\u06A9\u06CC\u0644\u06D4 \u06C1\u0645 \u0627\u06CC\u06A9 \u0633\u0648 \u067E\u0686\u06CC\u0635 \u0627\u06CC\u06A9\u0691 \u06A9\u06CC\u0645\u067E\u0633 \u0645\u06CC\u06BA \u0630\u06C1\u0646\u06CC \u0627\u0648\u0631 \u062C\u0633\u0645\u0627\u0646\u06CC \u062A\u0631\u0628\u06CC\u062A \u06A9\u06D2 \u0630\u0631\u06CC\u0639\u06D2 \u0645\u0639\u06CC\u0627\u0631\u06CC \u062A\u0639\u0644\u06CC\u0645 \u0627\u0648\u0631 \u0634\u062E\u0635\u06CC\u062A \u0633\u0627\u0632\u06CC \u0641\u0631\u0627\u06C1\u0645 \u06A9\u0631\u062A\u06D2 \u06C1\u06CC\u06BA\u06D4";
 
         const playOnlineVoice = () => {
             let audioUrl = "";
@@ -479,4 +479,10 @@ document.addEventListener("DOMContentLoaded", () => {
     } else {
         counters.forEach(c => c.innerText = c.getAttribute("data-target"));
     }
-});
+};
+
+if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initApp);
+} else {
+    initApp();
+}
