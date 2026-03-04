@@ -1,4 +1,4 @@
-/* 
+﻿/* 
   Modern Glassmorphism & Dark Mode Theme
   Color Palette: Deep Navy & Gold/Amber
 */
@@ -40,9 +40,11 @@ body {
     line-height: 1.6;
     overflow-x: hidden;
     position: relative;
-    cursor: none;
-    /* Custom cursor used */
     transition: font-family 0.3s ease;
+}
+
+body.has-custom-cursor {
+    cursor: none;
 }
 
 body.rtl-mode {
@@ -935,12 +937,15 @@ ul {
 
 /* Reveal Animations */
 .reveal {
-    opacity: 0;
-    transform: translateY(40px);
     transition: 0.8s all cubic-bezier(0.5, 0, 0, 1);
 }
 
-.reveal.active {
+.js-enabled .reveal {
+    opacity: 0;
+    transform: translateY(40px);
+}
+
+.js-enabled .reveal.active {
     opacity: 1;
     transform: translateY(0);
 }
@@ -1081,4 +1086,6 @@ ul {
 }
 
 .logo-img { mix-blend-mode: screen; }
+
+
 
